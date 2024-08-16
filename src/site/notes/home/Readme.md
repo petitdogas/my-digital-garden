@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/readme/","tags":["read-me","help","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/readme/","tags":["read-me","help","gardenEntry","gardenEntry"]}
 ---
 
 # What is this website?
