@@ -12,7 +12,7 @@ Rating: 5/5
 
 ## Matilda
 
-My mummy says I'm a miracle. Tickets were £5 so definitely worth the price, and the seats even at the back were rather decent. The play itself was rather overhyped - I've been to other performances which never made it to the West End but were leagues better, but it was amazing to see the children perform. The music was solid and rather memorable, though that may be because I have the songs added on my Spotify playlist.
+My mummy says I'm a miracle. Tickets were £5 so definitely worth the price, and the seats even at the back were rather decent. The play itself was rather overhyped - I've been to other performances which never made it to the West End but were leagues better, but it was amazing to see the children perform. The music was solid and rather memorable, though that may be because I have the songs added on [my Spotify playlist](https://open.spotify.com/playlist/7f5KIZBfVpgwnWoeBxW1aw?si=354c3474a7d3422f).
 
 Rating: 3.5/5
 
@@ -86,7 +86,7 @@ Rating: 3/5
 ## The Unfriend
 
 I was (willingly) dragged along by my sister to watch this play. Before going in, the reviews said it would be awful, and boy were they correct. We only really went to see Lee Mack, so surely it would have been a great comedy, right?
-There was toilet humour. There was Donald Trump humour. It was all boomer humour, and, just as with We Will Rock You: The Musical, the average audience age was about 40.
+There was toilet humour. There was Donald Trump humour. It was all boomer humour, and, just as with [[Entertainment/Theatre and Opera/theatre#We Will Rock You The Musical\|We Will Rock You: The Musical]], the average audience age was about 40.
 
 Rating: 0/5
 so badly wanted to leave early
