@@ -35,9 +35,8 @@ saved by Brian May
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/ADkiJGty9PbnYxsV9"
   data-title="TheWitches"
-  data-description="9 new items added to shared album"
+  data-description="8 new items added to shared album"
   data-background-color="transparent">
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczNvzZbjZsv40se_uzQ43qUtoIUNZDx9KWkDOyLAKOk3w2uroGyNZ8E9QeXZ5ITJNm_PTFWVZ-Krzpd1NYP0MywRPr-DvUC4kvFgbjc5bNzN1qDO2qA=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMSki-far_igRa97ZjfJtzyZ8xVi5iC5cuN1i6NYHkd8hndF9ITju_Ytx4pTzwbEhDXjo5Ovt6QcGhAvQfDdjDTqJSXoPo40x_A0c5yyEtrx4dg7sg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczN-DCoYtjBc4fFX3xQRC3XT1hXspmkFaArHMmcwhrDUDDQ3lry8BZ68wEubiypsm6kDV9EzJoh76rThBy-xcGj0-X1uAnEQS1j7olBNM9VJ8mXgon4=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczN-6Zrd0WzBUduuRx6bVRZPDffl5ZTJLW4NBSF4-rxnbMzbWMiYIE0jt7uI1ed4z8ExYRaPni378Tm8sVmlw2RljzPBhg0OSxJPXWVpYuv60RLJm0o=w1920-h1080"></object>
@@ -47,6 +46,7 @@ saved by Brian May
   <object data="https://lh3.googleusercontent.com/pw/AP1GczM54GZXvbj0SdeUHQlMCeba0MkLSSeXZx8dyg8v14tE4jfrNj6U3A-8ckaS67O_ISw2YE8LVuCpxGDlqrGYGSNqgPUrvD2y8qBD8fYNqDiJZ5hP3YE=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNVahskBoll5Mi8XawGG-Q7Dp4WK7YcKRop3eViK-AZxbXGXY_nX57RalBN64zx5O3x5cgBEpBEtK0hwGEHLaLmMqz-Q7uWY81_SVZKJ5F_xcixJyM=w1920-h1080"></object>
 </div>
+
 
 
 Watched with a large group and managed to get front-row seats (the front row was a bench and sometimes couldn't see the action right at the back of the stage, but all in all amazing seats). Had pizza beforehand and Ethan won some drinks, which he couldn't redeem because he wasn't 18 for another 5 hours.
