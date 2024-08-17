@@ -30,6 +30,7 @@ saved by Brian May
 
 
 ## The Witches
+20/01/2024
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
@@ -83,12 +84,23 @@ Rating: 3/5
 
 # Plays
 ## The Unfriend
-## Hansel and Gretel
-## My Neighbour Totoro
 
+I was (willingly) dragged along by my sister to watch this play. Before going in, the reviews said it would be awful, and boy were they correct. We only really went to see Lee Mack, so surely it would have been a great comedy, right?
+There was toilet humour. There was Donald Trump humour. It was all boomer humour, and, just as with We Will Rock You: The Musical, the average audience age was about 40.
+
+Rating: 0/5
+so badly wanted to leave early
+
+__TBC__
+## Hansel and Gretel
+30/11/2024
+## My Neighbour Totoro
+01/11/2025
 
 
 ---
+# Info
+
 To see theatre deals, check out [TheatreMonkey](https://www.theatremonkey.com/) for any price-saving tips.
 Order tickets with [TodayTix](https://www.todaytix.com/london/category/all-shows) to get reward cash and access to their Drops feature after enough purchases (often 60% or more discounts).
 [National Theatre](https://www.nationaltheatre.org.uk/16-25-tickets/) offers discounted tickets for those aged 16-25 and access to sold out shows on their [Friday Rush](https://www.nationaltheatre.org.uk/fridayrush/)

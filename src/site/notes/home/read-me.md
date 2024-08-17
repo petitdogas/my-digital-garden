@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/read-me/","tags":["read-me","home","faq","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/read-me/","tags":["read-me","home","faq","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # What is this website?
