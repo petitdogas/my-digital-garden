@@ -91,6 +91,30 @@ There was toilet humour. There was Donald Trump humour. It was all boomer humour
 Rating: 0/5
 so badly wanted to leave early
 
+## Antony and Cleopatra
+
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/KPBSH9sdWrM65bar7"
+  data-title="AntonyAndCleopatra"
+  data-description="7 new items added to shared album"
+  data-background-color="transparent">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczN6gvioDKRDp8uXfnsXW3tdHUYhmEOGS5Rc76MwW09T4N3TKG9nPoT_cHu0h7eDKWnsp84jWfYrV5DThoQKdtJS9xFxEz6FBgKtiYL12xD1Gvk-Gxk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOcWBC8f6i9eDYuJr8HO2SeC3Vr_4ufdWLtwCWLl2X6oG0HYANDcha3Zj9Ddu0g506OKkEoEt4LoyBMp6qXewlN16DJ-FEENrr_hrrvorXsMbzMxCM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMr9cC_R2-Sbnxl_-vB68gcgfP2we60L0VJT68WNtHOvOz3Z0Oh4t64N0S6RNjmcf795gG-gii_RenvjlUPOnaxn2tvvSBkqBrLgW0H9oTWk7cAjuQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczON-9CRYf9FBva-ixR5kjk9N5HvOhih0YeRwudpus0YEKyi8yrf7-VeaWfheK3RLOobnjx73vedMPSkI6rB2atrHHgalm3DSAkvbNCZMyfAXMoHm5A=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOlmwMYYFQiDIS3mtpzXwikForZoEGJMdLyvJJKINFfYLVO6wz6z4SIEse4zMxZ7QMOWNc6uGnCPgNtIi7QgjuvMX1tEygrMbZb8WfmTsnO4LUyNas=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMbR5V9MlemoADp1DilTfX_zpFkDSiF7pCN_JCmDd16kVqdHyyE1pQdnKuNRKoQ6-rYM9Mo6CIKnYMfQZCXj_i7M4gc2rVCgJLM_Ljyx14WpaHUC9c=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMHWS7Q2FER2VH816UZd5jkjZg80CgrOVj7Z0T9kyXY21NCFKrN1kVzc9lP6us1Fifu5_RTb6MtcVdBIxtETG-UhnMKfzLO3qyfvnc7Ot85tVOGhlc=w1920-h1080"></object>
+</div>
+
+
+Accidentally booked a British Sign Language version of the production, but was pleasantly surprised. It felt awkward at the start when the actors starting signing and we would only read subtitles, but I quickly got used to it - it was mostly Egyptians signing and Romans speaking, which was interesting. The messenger signing to Cleopatra about Octavia was hilarious, and I really liked how they didn't just stick to ordinary BSL and would sign things comedically as well (e.g. defecating to signify the colour brown).
+Pompey was my favourite character but it was a real shame that he got Peter Grimes'd and died off-stage.
+
+Rating: 3.5/5
+three hours of standing </3
+
 __TBC__
 ## Hansel and Gretel
 30/11/2024
