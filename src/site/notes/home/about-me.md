@@ -9,3 +9,5 @@ Currently, I speak both English (L1) and German (B1-2) though my German may be a
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7f5KIZBfVpgwnWoeBxW1aw?utm_source=generator" width="60%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Please [[home/contact-me\|contact me]] for any and all questions. I'd love to hear from you.
+
+![about-me-20240827192109174.png](/img/user/home/templates/attachments/about-me-20240827192109174.png)
