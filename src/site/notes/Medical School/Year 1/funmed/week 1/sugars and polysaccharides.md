@@ -35,7 +35,7 @@ In solution, equilibrium between straight chain and two cyclic forms
 
 ## Sulfated sugars
 - produced by the action of sulpho-transferase
-- form **glycosaminoglycans (GAGs)** found in extracellular matrix
+- form **glycosaminoglycans (GAGs)** [[Medical School/Year 1/funmed/week 1/extracellular matrix and cell adhesion#Proteoglycan Aggregates\|found in extracellular matrix]]
 - makes the **GAG** highly negatively charged, therefore hydrophilic
 
 # Disaccharides
