@@ -24,7 +24,7 @@ Penetrance - the extent to which a particular gene or set of genes is expressed 
 - affects either sex equally
 - can be trasnmitted by either parent
 	- Huntington's disease
-	- [Marfan syndrome]([[Medical School/Year 1/funmed/week 1/extracellular matrix and cell adhesion#Marfan Syndrome\|extracellular matrix and cell adhesion#Marfan Syndrome]])
+	- [[Medical School/Year 1/funmed/week 1/extracellular matrix and cell adhesion#Marfan Syndrome\|Marfan Syndrome]]
 	- Neurofibromatosis type 1
 	- Polycystic kidney disease
 
