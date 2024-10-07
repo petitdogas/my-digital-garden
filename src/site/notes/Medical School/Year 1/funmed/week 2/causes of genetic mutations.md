@@ -83,8 +83,10 @@ there are 8 frameshift mutations
 		- trisomy/monosomy/triploidy
 mitotic nondisjunction can occur due to the inactivation of topoisomerase II
 
-#### Klinefelters Syndrome
-#### Turners Syndrome
+#### [[Medical School/Year 1/funmed/week 2/human genome and chromosomes#Klinefelter Syndrome (47,XXY)\|Klinefelters Syndrome]]
+
+#### [[Medical School/Year 1/funmed/week 2/human genome and chromosomes#Turner syndrome (45,X)\|Turner Syndrome]]
+
 
 # What causes genetic mutations?
 
