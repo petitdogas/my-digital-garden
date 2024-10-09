@@ -26,7 +26,7 @@
 ## Initiation and Reading Frames
 - Read from 5’ to 3’
 - Always write from N terminal
-- Frameshifting mutations occur
+- [[Medical School/Year 1/funmed/week 2/causes of genetic mutations#Frameshift Mutations\|Frameshifting]] mutations occur
 
 # Types of RNA
 

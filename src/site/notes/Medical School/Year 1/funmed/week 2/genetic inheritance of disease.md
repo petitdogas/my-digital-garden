@@ -43,8 +43,8 @@ Penetrance - the extent to which a particular gene or set of genes is expressed 
 	- either gender affected equally
 - Examples
 	- Phenylketonuria (PKU)
-	- Tay Sachs disease
-	- Sickle cell disease
+	- [[Medical School/Year 1/funmed/week 2/causes of genetic mutations#Tay Sachs Disease\|Tay Sachs disease]]
+	- [[Medical School/Year 1/funmed/week 2/causes of genetic mutations#Sickle Cell Disease\|Sickle cell disease]]
 	- Cystic fibrosis
 ### X-linked Dominant
 - if father affected, male children are spared

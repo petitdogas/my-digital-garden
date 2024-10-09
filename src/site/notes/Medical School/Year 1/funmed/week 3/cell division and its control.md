@@ -95,13 +95,13 @@ The rest of meiosis is the same as mitosis, just no DNA duplication occurs.
 ![cell division and its control-20241007093916643.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/cell%20division%20and%20its%20control-20241007093916643.png)
 
 ### Non-autosomal
-Turner syndrome (XO)
-Kleinfelter syndrome (XXY)
+[[Medical School/Year 1/funmed/week 2/human genome and chromosomes#Turner syndrome (45,X)\|Turner syndrome (XO)]]
+[[Medical School/Year 1/funmed/week 2/human genome and chromosomes#Klinefelter Syndrome (47,XXY)\|Klinefelter syndrome (XXY)]]
 
 ### Autosomal
-Patau syndrome (trisomy 13)
-Edwards syndrome (trisomy 18)
-Down Syndrome (trisomy 21)
+[[Medical School/Year 1/funmed/week 2/human genome and chromosomes#Patau Syndrome (trisomy 13)\|Patau syndrome (trisomy 13)]]
+[[Medical School/Year 1/funmed/week 2/human genome and chromosomes#Edwards Syndrome (trisomy 18)\|Edwards syndrome (trisomy 18)]]
+[[Medical School/Year 1/funmed/week 2/human genome and chromosomes#Down Syndrome (trisomy 21)\|Down Syndrome (trisomy 21)]]
 
 # Control of the Cell Cycle
 - Cyclins
