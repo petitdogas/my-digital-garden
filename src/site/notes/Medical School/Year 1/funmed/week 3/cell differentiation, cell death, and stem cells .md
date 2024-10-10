@@ -39,9 +39,8 @@
 ## Stem Cells and Cancer
 - cancer stem cells can lead to new tumours and new progenitors of tumours
 
-
 # Differentiation
-- three basic categories of cells fsound in the body
+- three basic categories of cells found in the body
 	- germ cells
 	- somatic cells
 	- stem cells
@@ -51,11 +50,15 @@
 
 # Stages of Cell Commitment
 ## Specification
+???
 - reversible
 - will commit unless environment changes
+
 ## Determination
+???
 - irreversible commitment
 - differentiates regardless of landscape
+
 ## Differentiation
 - becomes specialised cell
 
@@ -89,7 +92,9 @@
 - cell or tissue damage due to external factors
 - leads to release of a cell's content
 	- causes an inflammatory response
+
 ### Treatment
+??
 - antioxidants
 - surgical removal of necrotic tissue
 	- debridement

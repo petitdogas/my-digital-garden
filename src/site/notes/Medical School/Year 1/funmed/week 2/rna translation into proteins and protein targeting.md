@@ -14,10 +14,10 @@
 
 # The Genetic Code
 - There are 20 different amino acids
-- Start codon is ATG/AUG
+- Start codon is {{ATG/AUG}}
 - Stop codons are
-	- TAA / TGA / TAG
-	- UAA / UGA / UAG
+	- {{TAA / TGA / TAG}}
+	- {{UAA / UGA / UAG}}
 
 ## Degeneracy
 - 64 possible combinations but only 20 amino acids, so lots of combinations for same amino acids
@@ -47,13 +47,15 @@ Aminoacyl tRNA
 ### Function
 - Acts to translate between RNA and amino acid
 - One end is attached to a specific amino acid
-	- Attachment is catalysed by **aminoacyl tRNA synthetase**
+	- Attachment is catalysed by {{**aminoacyl tRNA synthetase**}}
 - The other end has the anticodon
+
 #### Aminoacyl tRNA synthetase
 - Links amino acid to their cognate tRNAs
 
 ![rna translation into proteins and protein targeting-20241007100331233.png](/img/user/Medical%20School/Year%201/funmed/week%202/attachments/rna%20translation%20into%20proteins%20and%20protein%20targeting-20241007100331233.png)
 #### Wobble
+??
 - 64 possible codons, but not 64 different tRNAs
 	- A single tRNA can recognise multiple codons
 - Once the first two bases are paired, the third one is less important
@@ -65,19 +67,19 @@ Aminoacyl tRNA
 # Translation
 ## Initiation
 - Small ribosomal subunit binds to AUG
-- Specific initiator tRNA (tRNAi<sup>Met</sup>) carrying a methionine binds to the AUG
+- Specific initiator tRNA (tRNAi<sup>Met</sup>) carrying a {{methionine}} binds to the AUG
 - The large ribosomal subunit (60S) binds to this complex
-- tRNA occupies the P site
+- tRNA occupies the {{P site}}
 
 ![rna translation into proteins and protein targeting-20241007100409707.png](/img/user/Medical%20School/Year%201/funmed/week%202/attachments/rna%20translation%20into%20proteins%20and%20protein%20targeting-20241007100409707.png)
 ## Elongation
 - tRNA with complementary anticodon binds to the mRNA
-	- mRNA occupies the A site in the ribosome
+	- mRNA occupies the {{A site}} in the ribosome
 - Peptide bond formation
 - Cleaving of bond between the amino acid and first tRNA
 - Translocation
 	- Ribosome shifts forwards one codon in the mRNA (5’ to 3’)
-- Empty tRNA moves from P site to E site
+- Empty tRNA moves from {{P site to E site}}
 	- A site is now empty and ready for another tRNA
 	- Uncharged tRNA is released from E site
 ## Termination

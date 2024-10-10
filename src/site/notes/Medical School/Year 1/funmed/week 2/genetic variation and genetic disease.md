@@ -13,12 +13,14 @@
 
 # Detecting Genetic Variation
 ## Polymerase Chain Reaction (PCR)
+??
 - used to amplify a region of the genome using template DNA and specific primers
 - denaturation (94C)
 - annealing (54C)
 - extension (72C)
 
 ## Sanger Sequencing
+??
 - add dideoxynucleotides with a fluorescent tag
 	- stop synthesis of DNA when the dDNA is added
 		- each nucleotide has a different colour
@@ -27,6 +29,7 @@
 					- read down the DNA sequence
 
 ## Next Generation Sequencing (NGS)
+??
 - sequencing of the whole exome
 - sequencing of the whole genome
 - RNA sequencing

@@ -41,13 +41,14 @@
 	- methylation
 	- phosphorylation
 	- ubiquitylation
-- these modifications are on lysine (K)
+- these modifications are on {{lysine (K)}}
 
 H is histone, K is amino acid, number of subunits
 	- H3K4me3 - histone 3 amino acid four has three methyl groups added
 	- H3K36me3 - histone 3 amino acid 36 has three methyl groups added
 
 ## Acetylation
+??
 - histone acetylase (HAT)
 	- associated with more open and accessible DNA
 	- puts acetyl group on the histone tails
@@ -61,8 +62,8 @@ H is histone, K is amino acid, number of subunits
 - could also be used to modify epigenetic changes
 
 # DNA Methylation
-- DNA methyltransferase (DNMT)
-	- methylates cytosine (5-methyl-cytosine)
+- DNA {{methyltransferase}} (DNMT)
+	- methylates {{cytosine (5-methyl-cytosine)}}
 		- stops gene from being expressed
 - CpG sites rich in cytosine, guanine, cytosine, guanine....
 	- typically found in promoter regions
@@ -70,7 +71,7 @@ H is histone, K is amino acid, number of subunits
 Methylation patterns are tissue specific and heritable
 
 # Global hypomethyaltion with focal hypermethylation in cancer development
-- normal genome is usually hypermethylated and stable
+- normal genome is usually {{hypermethylated}} and stable
 	- with age, you lose some methyl groups
 		- hypomethylation
 - CpG-island specific DNA hypermethylation of tumour suppressant genes

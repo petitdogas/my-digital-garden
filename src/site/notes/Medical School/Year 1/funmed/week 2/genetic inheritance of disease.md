@@ -13,7 +13,7 @@
 # Inheritance of Genetic Diseases
 ![genetic inheritance of disease-20241001132851561.png](/img/user/Medical%20School/Year%201/funmed/week%202/attachments/genetic%20inheritance%20of%20disease-20241001132851561.png)
 
-Penetrance - the extent to which a particular gene or set of genes is expressed in the phenotypes of individuals carrying it, measured by the proportion of carriers showing the characteristic phenotype.
+Penetrance;; - the extent to which a particular gene or set of genes is expressed in the phenotypes of individuals carrying it, measured by the proportion of carriers showing the characteristic phenotype.
 ## Mendelian or Monogenic
 - determined by a single gene
 - e.g. CFTR - cystic fibrosis
@@ -31,12 +31,13 @@ Penetrance - the extent to which a particular gene or set of genes is expressed 
 #### Complications
 - sporadic de novo cases
 - variable penetrance
-	- genetic background of individual may be asymptomatic
+	- {{genetic background of individual may be asymptomatic}}
 - variable expressivity
 	- variation in severity of symptoms
 - anticipation
-	- disease manifests at a younger age in successive generations
+	- {{disease manifests at a younger age in successive generations}}
 		- e.g. Huntington's disease
+
 ### Autosomal Recessive
 - affected people can be born to unaffected parents
 	- parents are carriers
@@ -72,9 +73,9 @@ Penetrance - the extent to which a particular gene or set of genes is expressed 
 
 ## Multifactorial
 - small number of genes with a moderate effect
-	- oligogenic trait
+	- {{oligogenic trait}}
 - large number of genes with individually small effect
-	- polygenic
+	- {{polygenic}}
 - may be triggered by environmental factors
 ## Complex
 - large number of genes and environmental factors

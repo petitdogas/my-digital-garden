@@ -36,7 +36,7 @@ chromosome number one
 
 # Syndromes due to chromosome number
 ## Autosome (mainly maternally derived)
-### Down Syndrome (trisomy 21)
+### Down Syndrome {{(trisomy 21)}}
 - ~30% miscarriage
 - upward slanting eyes
 - marked muscle hypotonia as babies
@@ -46,7 +46,7 @@ chromosome number one
 
 #### Causes
 - 95% have three separate copies of chromosome 21
-- 4% have extra copy because of a Robertsonian translocation between 14 and 21
+- 4% have extra copy because of {{a Robertsonian translocation between 14 and 21}}
 - 1% have mosaicism
 	- some cells have three copies of chromosome 21
 		- other cells have two copies
@@ -56,33 +56,32 @@ chromosome number one
 association with increasing maternal age
 - increased chromosomal missegregation
 
-### Edwards Syndrome (trisomy 18)
+### Edwards Syndrome {{(trisomy 18)}}
 - 1 in 300 births
 - multiple malformations (heart, kidneys)
 - clenched hands with overlapping fingers
 
-### Patau Syndrome (trisomy 13)
+### Patau Syndrome {{(trisomy 13)}}
 - 1 in 5000 births
 - multiple malformations
 - affects midline structures particularly
 	- incomplete lobation of brain; cleft lip; congenital heart disease
 ## Sex chromosomes
 
-### Klinefelter Syndrome (47,XXY)
+### Klinefelter Syndrome {{(47,XXY)}}
 - 1 in 1000 males
 - infertility (atrophic testes do not produce sperm)
 - lack of testosterone - poorly developed secondary sexual characteristics
 - tall
 
-### Turner syndrome (45,X)
+### Turner syndrome {{(45,X)}}
 - 1 in 5000 females
 - short stature
-- primary amenorrhoea (ovaries involute before birth)
+- primary {{amenorrhoea}} (ovaries involute before birth)
 - 20% have congenital heart disease
 	- coarctation of aorta – localised narrowing and thickening
 ## All chromosomes
 - Iriploidy (69 chromosomes) - most embryos will miscarry
-
 
 
 # Prenatal Screening
@@ -102,5 +101,5 @@ association with increasing maternal age
 # Y-chromosome
 - variable size, but roughly 100 genes
 	- SRY gene - sex determining region of the Y chromosome
-		- encodes for HMG transcription factor responsible for male characteristics
+		- encodes for {{HMG transcription factor}} responsible for male characteristics
 

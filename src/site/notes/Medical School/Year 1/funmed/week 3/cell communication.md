@@ -14,18 +14,21 @@
 ![cell communication-20241008131133906.png|Overview of Cell Signalling](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/cell%20communication-20241008131133906.png)
 
 # Autocrine Signalling
-- single signalling clel receives a weak autocrine signal
+- single signalling cell receives a weak autocrine signal
 	- cell produces a hormone
 		- the ligand binds to receptors on the same cell / group of cells
+
 # Intercellular Signalling
 ## Types
+
 ### Contact-Dependent
 - cells make direct contact with each other
 - signalling cell has signal molecule which is received by the target cell
 - example
-	- cells in embryonic development differentiate into different types of cels
+	- cells in embryonic development differentiate into different types of cells
+
 ### Paracrine
-- short distant secretion of signals
+- {{short distant}} secretion of signals
 - signals stay close to signalling cell and bind to receptors which are on cells close by
 - example
 	- cytokines (inflammation regulation)
@@ -35,6 +38,7 @@
 - hormones secreted into bloodstream
 - example
 	- insulin
+<!--SR:!2024-10-12,3,250-->
 
 # Intracellular Signalling
 ![cell communication-20241008132147994.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/cell%20communication-20241008132147994.png)
@@ -42,10 +46,10 @@
 ## Second Messengers
 - relay signals received at receptors on the cell surface to effector proteins
 ### cAMP (cyclic adenosine 3',5'-monophosphate)
-- adrenaline binds to receptor
-	- GDP -> GTP (like ATP but guanine instead) activates adenylyl cyclase
-		- ATP -> cAMP from enzyme adenylyl cyclase
-			- cAMP is degraded by enzyme phosphodiesterase
+- {{adrenaline}} binds to receptor
+	- GDP -> GTP (like ATP but guanine instead) activates {{adenylyl cyclase}}
+		- ATP -> cAMP
+			- cAMP is degraded by enzyme {{phosphodiesterase}}
 ### Calcium
 - Ca2+ stored in the ER
 	- Ca2+ enter the cytosol via ion channels when released from the ER
@@ -54,6 +58,7 @@
 ## Molecular switches
 - switched on then off
 	- protein kinase -> on -> protein phosphatase -> off
+<!--SR:!2024-10-12,3,250!2024-10-10,1,230!2024-10-10,1,230-->
 
 # Acetylcholine
 ## Hyperpolarisation in cardiac muscle
@@ -82,11 +87,11 @@
 
 # Stroke - too much signal
 - blood vessel blockage causes death of brain cells nearby
-	- dying cells release glutamate
+	- dying cells release {{glutamate}}
 		- toxic at high concentrates
-			- excitotoxicity - glutamate activates signal pathways causing more apoptosis on top of the necrosis
+			- {{excitotoxicity}} - glutamate activates signal pathways causing more apoptosis on top of the necrosis
 				- further, more widespread damage to the brain
 
 # Excess Signalling and Cancer
 ![cell communication-20241008135616342.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/cell%20communication-20241008135616342.png)
-- angiogenesis is the proliferation of blood vessels
+- {{angiogenesis}} is the proliferation of blood vessels

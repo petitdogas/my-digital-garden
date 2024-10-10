@@ -39,10 +39,13 @@
 - spindle microtubules retract
 - sister chromatids pulled apart through their kinetochores
 - spindles move further apart towards poles
+
 - Cohesin
+??
 	- protein complex that regulates the separation of sister chromatids during cell division (both mitosis and meiosis). They hold chromatids together until anaphase.
 	- Cohesinopathies
 		- leads to extra or less chromosomes due to non-disjunction – e.g. Cornelia de Lange syndrome, trisomy 21.
+
 ### Telophase
 - centrioles, centrosomes, spindle fibres disappear
 - nuclear envelope starts to form
@@ -118,13 +121,13 @@ Start of S phase
 
 In mitosis, cyclin B phosphorylates proteins which regulate microtubule behaviour
 
-Following activation of p53 (e.g. by viral infection) cyclin dependent kinase inhibitor p21 expression is upregulated
+Following [[Medical School/Year 1/funmed/week 3/what is cancer#p53-dependent transcriptional regulation\|activation of p53]] (e.g. by viral infection), cyclin dependent kinase inhibitor p21 expression is upregulated
 - inhibits CDK2 in G1
 	- prevents the cell from entering the cell cycle
 
 # Retinoblastoma
 - genetic defects in the retinoblastoma gene
-- Rb is a tumour suppressor
+ Rb is a [[Medical School/Year 1/funmed/week 3/what is cancer#Tumour Suppressor Genes\|tumour suppressor]]
 	- prevents DNA synthesis and replication
 - mutant pRb does not prevent cell cycle progression past G1
 	- uncontrolled growth (retinoblastoma)

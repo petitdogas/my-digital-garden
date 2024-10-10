@@ -75,7 +75,7 @@ Molarity (M)x dissociation number (N) x osmotic coefficient
 
 ## ADH Disorders
 ### ADH deficiency
-#### Hypothalamic-neurohypophyseal lesions (central diabetes insipidus)
+
 #### Hypothalamic-neurohypophyseal lesions (central diabetes insipidus)
 - excessive dilute urine
 - dehydration, hyperosmolality, hypovolemia
@@ -89,10 +89,10 @@ Molarity (M)x dissociation number (N) x osmotic coefficient
 
 ## Roles of Aldosterone
 - Aldosterone is released from the adrenal cortex when:
-	- reduced Na+ (hyponatremia)
-	- increased K+ (hyperkalemia)
-	- low blood volume
-- aldosterone acts on the epithelial sodium channels (ENaC) in the collecting tubules and causes sodium reabsorption
+	- {{reduced Na+ (hyponatremia)}}
+	- {{increased K+ (hyperkalemia)}}
+	- {{low blood volume}}
+- aldosterone acts on the {{epithelial sodium channels (ENaC)}} in the collecting tubules and causes sodium reabsorption
 ### Aldosterone Disorders
 #### Hyperaldosteronism
 - increased reabsorption of sodium and volume expansion

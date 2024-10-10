@@ -37,11 +37,11 @@ CG = 3 H-bonds
 
 # Compaction of DNA
 DNA condensed into nucleosome beads (8 histones, 146 DNA base pairs)
-Nucleosome beads condensed into a **solenoid**
+Nucleosome beads condensed into a {{**solenoid**}}
 - association of H1 histone proteins with each nucleosome to maintain structure
 # DNA Replication
 ##  Leading Strand
-- **Gyrase*** (a topoisomerase) unwinds DNA
+- {{**Gyrase*** (a topoisomerase)}} unwinds DNA
 - **Helicase** breaks H-bonds
 - activated free nucleotides line up by complementary base pairing
 - **Primase** binds to start of sequence to indicate where **DNA polymerase** should bind
@@ -62,26 +62,28 @@ prokaryotic cells only have one
 # Proofreading and Editing DNA
 ## DNA mismatch repair
 - errors in new DNA strand cause a "bump" in the DNA
-- MutS binds to mismatched base pair
-- MutL scans nearby DNA for nick
-	- nick = single strand break which provides signals for the mismatch system to fix up
+- {{MutS}} binds to mismatched base pair
+- {{MutL}} scans nearby DNA for nick
+	- nick = {{single strand break which provides signals for the mismatch system to fix up}}
 	- then triggers strand removal to the mismatch
 ## Single strand repairs
 if not repaired, these lead to mutations
 ### Base Excision Repair
 - correction of single bases
 ### Nucleotide Excision Repair
-- 
 
 
 ## Double strand repairs
 if not repaired, these lead to genetic instability
 
 ### Non-homologous end joining
+??
 - the two broken ends of the chromosome are simply glued back together
 	- this repair mechanism is “messy” and typically involves the loss, or sometimes addition, of a few nucleotides at the cut site
 		- tends to produce a mutation, but this is better than the alternative (loss of an entire chromosome arm).
+
 ### Homologous recombination
+??
 - information from the homologous chromosome that matches the damaged one (or from a sister chromatid, if the DNA has been copied) is used to repair the break
 	- two homologous chromosomes come together, and the undamaged region of the homologue or chromatid is used as a template to replace the damaged region of the broken chromosome
 		- “cleaner” than non-homologous end joining and does not usually cause mutations.

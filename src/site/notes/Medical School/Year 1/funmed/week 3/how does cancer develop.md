@@ -20,7 +20,7 @@
 - simple cuboidal and simple columnar
 - all breast carcinomas arise from the epithelial cells in the terminal duct lobular unit
 
-# Benign and Malignant Tumours
+# Differences Between Benign and Malignant Tumours
 
 | Benign Tumours (not cancer)       | Malignant Tumours (cancer)       |
 | --------------------------------- | -------------------------------- |

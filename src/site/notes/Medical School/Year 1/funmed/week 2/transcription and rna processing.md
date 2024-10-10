@@ -21,22 +21,24 @@
 ![transcription and rna processing-20241002121532909.png](/img/user/Medical%20School/Year%201/funmed/week%202/attachments/transcription%20and%20rna%20processing-20241002121532909.png)
 
 # RNA polymerases
-- RNA synthesised in the 5' to 3' direction
-- DNA template read in the 3' to 5' direction
+- RNA synthesised in the {{5' to 3' direction}}
+- DNA template read in the {{3' to 5' direction}}
 
 ## Steps in mRNA synthesis
 ### initiation
 - once DNA unwinds close to a gene, RNA polymerase binds to a promoter sequence
-- **preinitiation complex** brings the pol II to the right area of the gene
+- **{{preinitiation complex}}** brings the pol II to the right area of the gene
 	- TATA box
 	- upstream and downstream elements that bind positive and negatively acting transcription factors, called enhancers and silencers.
 ### elongation
-- RNA polymerase synthesises complementary RNA in the 5’à3’ direction, using NTPs (ribonucleoside triphosphates)
+- RNA polymerase synthesises complementary RNA in the 5’ to 3’ direction, using NTPs {{(ribonucleoside triphosphates)}}
 
 ### processing
+??
 ![transcription and rna processing-20241002123033123.png](/img/user/Medical%20School/Year%201/funmed/week%202/attachments/transcription%20and%20rna%20processing-20241002123033123.png)
+
 #### Alternative Splicing of mRNA
-- production of isoenzymes from one gene
+- production of {{isoenzymes}} from one gene
 	- use different exons
 	![transcription and rna processing-20241002123433005.png](/img/user/Medical%20School/Year%201/funmed/week%202/attachments/transcription%20and%20rna%20processing-20241002123433005.png)
 
@@ -46,7 +48,7 @@
 ### export
 - nuclear pores are large macromolecular assemblies that span the nuclear envelope
 	- function as a barrier to molecules larger than 40kDa
-	- export receptors recognize nuclear export signals that are present in proteins bound to RNA during transcription and splicing
+	- export receptors recognise nuclear export signals that are present in proteins bound to RNA during transcription and splicing
 
 # Examples of Mis-regulated Gene Expression and Disease
 ## General transcription factors

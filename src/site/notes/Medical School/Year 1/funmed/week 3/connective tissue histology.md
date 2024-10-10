@@ -28,6 +28,7 @@
 ## Resident Cells
 ### Fibroblasts and myofibroblasts
 Fibroblasts
+??
 - most common resident cell
 - responsible for collagen secretion
 	- essential for normal development and repair
@@ -36,6 +37,7 @@ Fibroblasts
 ![connective tissue histology-20241007101854340.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/connective%20tissue%20histology-20241007101854340.png)
 
 Myofibroblasts
+??
 - properties of both fibroblasts and smooth muscle cells
 	- contraction
 - similar appearance to fibroblast
@@ -43,22 +45,29 @@ Myofibroblasts
 - lack external basal lamina
 	- different to smooth muscle cells
 ![connective tissue histology-20241007101903109.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/connective%20tissue%20histology-20241007101903109.png)
+
 ### Macrophages
+??
 - phagocytic cells from monocytes
 - microscopically visible only when they display phagocytic activity
 - kidney-shaped nucleus
 ![connective tissue histology-20241007101908858.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/connective%20tissue%20histology-20241007101908858.png)
+
 ### Mast Cells
+??
 - large cells with spherical nucleus
 - large basophilic granules in cytoplasm
 - found in connective tissue of skin and mucous membranes
 	- not found in brain and spinal cord
 ![connective tissue histology-20241007101915210.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/connective%20tissue%20histology-20241007101915210.png)
+
 ### Adipocytes
+??
 - signet-ring appearance
 - store fat and produce hormones
 - in large numbers, called adipose tissue
 ![connective tissue histology-20241007101921359.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/connective%20tissue%20histology-20241007101921359.png)
+
 ### Adult Stem Cells
 - only differentiate into lineage specific cells (multipotent)
 
@@ -78,19 +87,24 @@ Myofibroblasts
 - great tensile strength
 - holds structures together
 ### [[Medical School/Year 1/funmed/week 1/extracellular matrix and cell adhesion#Types of Collagen\|Types of Collagen]]
-## Reticular
+
+## Reticular Fibres
+??
 - very thin collagenous fibres (type III)
 - highly branched
 	- loose, allowing passage of cells and fluid
 - form supporting stroma for highly cellular organs (liver, bone marrow)
 ![connective tissue histology-20241007102612526.png|in liver](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/connective%20tissue%20histology-20241007102612526.png)
-## Elastic
+
+## Elastic Fibres
+??
 - bundles of fibrillin embedded in elastin
 - branched fibres
 - pliable
 ![connective tissue histology-20241007102822436.png|in aorta](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/connective%20tissue%20histology-20241007102822436.png)
 
 # Ground Substance
+??
 - consists mainly of water
 - provides a route for communication and transport (by diffusion) between tissues
 - GAGs
@@ -108,14 +122,18 @@ Myofibroblasts
 # Classification of Connective Tissues
 ## Embryonic connective tissue
 ### mesenchymal connective tissue
+??
 - found in embryo
 - develops into adult muscle, vascular  and urogenital systems and the serous membranes
 - small spindle-shaped cells
+
 ### mucous connective tissue (Wharton's jelly)
+??
 - found in umbilical cord
 - protects umbilical cord vessels
 	- fibroblasts, macrophages
 - thin collagen fibres visible
+
 ## Connective tissue proper
 ### loose (areolar) connective tissue
 - similar to adipose tissue in both structure and function
@@ -123,10 +141,13 @@ Myofibroblasts
 - fibroblasts, mast cells, macrophages
 ### dense connective tissue
 #### dense irregular connective tissue
+??
 - lining bones and cartilage, joint capsules
 - sustain tension under many directions
 ![connective tissue histology-20241007104335050.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/connective%20tissue%20histology-20241007104335050.png)
+
 #### dense regular connective tissue
+??
 - tendons and ligaments
 - collagen fibres with fibroblasts
 ![connective tissue histology-20241007104343402.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/connective%20tissue%20histology-20241007104343402.png)
@@ -141,11 +162,14 @@ Myofibroblasts
 - highly cellular locations
 ### adipose tissue (also classified as specialised connective tissue)
 #### white adipose tissue
+??
 - large, white, spherical
 - single large vacuole: unilocular
 - subcutaneously, mammary glands, mesenteries, retroperitoneal spaces, visceral  pericardium, orbits and bone marrow cavity
 - insulation, energy storage and hormone production (leptin, angiotensinogen, adiponectin and resistin)
+
 #### brown adipose tissue
+??
 - present during foetal life
 - smaller cells, eccentric nucleus
 - many vacuoles (multilocular)
@@ -153,6 +177,7 @@ Myofibroblasts
 	- due to high levels of cytochrome oxidase in mitochondria
 - differentiate from mesenchymal stem cells
 - thermogenesis
+
 ## Specialised connective tissue
 ### cartilage
 - more than 95% of it is ECM
@@ -160,32 +185,43 @@ Myofibroblasts
 - contain GAGs and few collagen type II fibres
 #### 3 types of cartilage
 ##### hyaline cartilage
+??
 - collagen II fibres, GAGs and glycoproteins
 - chondrocytes located in lacunae
 - lubrication of joints and tension absorption
 - basophilia in ECM
 - surrounded by dense connective tissue layer called perichondrium
+
 ##### elastic cartilage
+??
 - presence of elastin in the  ECM (plus collagen II)
 - ear and the epiglottis of the larynx
 - surrounded by perichondrium
+
 ##### fibrocartilage
+??
 - chrondrocytes and fibroblasts surrounded by collagen I and less rigid ECM
 - no perichondrium
 - intermediate tissue between hyaline cartilage and dense connective tissue
 - intervertebral discs, pubic symphysis
+
 #### Chondrogenesis
+??
 - chondroblasts produce and deposit collagen II fibres and ECM (hyaluronic acid and GAGs)
 - build up of ECM, cells are separated and trapped within matrix spaces called lacunae
 - two mechanisms
+
 ##### interstitial growth
+??
 - from chondrocytes within the cartilage
 - territorial matrix
 	- the matrix in close contact with the chondrocyte (bluish metachromatic, H&E, basket-like structure)
 - interterritorial matrix
 	- matrix that separates the clustered chondrocytes (isogenous group), enveloped by the territorial matrix
 ![connective tissue histology-20241007105303071.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/connective%20tissue%20histology-20241007105303071.png)
+
 ##### appositional growth
+??
 - from undifferentiated cells at the surface of the cartilage or perichondrium
 - •perichondrium
 	- reticular fibrous layer by clustered outermost cartilage cells, the zone between cartilage and surrounding general connective tissue

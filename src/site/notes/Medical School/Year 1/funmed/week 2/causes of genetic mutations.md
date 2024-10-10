@@ -14,7 +14,7 @@
 - Genomic changes
 	- aneuploidy
 - Chromosomal changes/rearrangements
-	- translocations
+	- [[Medical School/Year 1/funmed/week 2/human genome and chromosomes#Robertsonian Translocation\|translocations]]
 	- visible structural changes in the chromosome
 ## Gene mutations
 	- single base pair changes / few bases
@@ -47,7 +47,7 @@
 	- mutation found in significant proportion of Ashkenazi Jews
 	- enzyme does not function correctly
 		- so GM2 ganglioside is not broken down
-			- therefore increased concentration of gangliosides inside nerve cells
+			- therefore increased {{concentration of gangliosides}} inside nerve cells
 				- nerve cells die
 
 most of the mutations in Hex A are actually point mutations
@@ -97,18 +97,20 @@ mitotic nondisjunction can occur due to the inactivation of topoisomerase II
 
 ### Tautomeric shift (base substitution)
 - all bases have **tautomers** (isomers)
-	- C and A are commonly in amino form, and rarely **imino**
-	- G and T are commonly in keto form, and rarely **enol**
-		- these tautomers can lead to **transition mutations**
+	- C and A are commonly in {{amino form, and rarely **imino**}}
+	- G and T are commonly in {{keto form, and rarely **enol**}}
+		- these tautomers can lead to {{**transition mutations**}}
 			- different purine/pyrimidine, so mismatched base pairs
 
 ![causes of genetic mutations-20241001124737063.png](/img/user/Medical%20School/Year%201/funmed/week%202/attachments/causes%20of%20genetic%20mutations-20241001124737063.png)
 
 ### Depurination (deletion)
+??
 - spontaneous cleavage of bond between base and deoxyribose
 	- A or G
 
 ### Deamination (base substitution)****
+??
 - removal of NH3 group through hydrolysis hydrolysis reaction
 	- cystosine --> uracil
 
