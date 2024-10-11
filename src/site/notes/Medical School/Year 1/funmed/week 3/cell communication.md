@@ -58,7 +58,7 @@
 ## Molecular switches
 - switched on then off
 	- protein kinase -> on -> protein phosphatase -> off
-<!--SR:!2024-10-12,3,250!2024-10-10,1,230!2024-10-10,1,230-->
+<!--SR:!2024-10-12,3,250!2024-10-13,2,230!2024-10-10,1,230-->
 
 # Acetylcholine
 ## Hyperpolarisation in cardiac muscle

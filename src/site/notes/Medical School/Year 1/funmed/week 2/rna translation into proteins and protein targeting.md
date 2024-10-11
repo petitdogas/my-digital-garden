@@ -18,6 +18,7 @@
 - Stop codons are
 	- {{TAA / TGA / TAG}}
 	- {{UAA / UGA / UAG}}
+<!--SR:!2000-01-01,1,130!2024-10-13,2,152!2024-10-13,2,150-->
 
 ## Degeneracy
 - 64 possible combinations but only 20 amino acids, so lots of combinations for same amino acids
