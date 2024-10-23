@@ -38,7 +38,7 @@
 - hormones secreted into bloodstream
 - example
 	- insulin
-<!--SR:!2024-10-12,3,250-->
+<!--SR:!2024-10-23,11,270-->
 
 # Intracellular Signalling
 ![cell communication-20241008132147994.png](/img/user/Medical%20School/Year%201/funmed/week%203/attachments/cell%20communication-20241008132147994.png)
@@ -58,7 +58,7 @@
 ## Molecular switches
 - switched on then off
 	- protein kinase -> on -> protein phosphatase -> off
-<!--SR:!2024-10-12,3,250!2024-10-13,2,230!2024-10-10,1,230-->
+<!--SR:!2024-10-19,7,250!2024-10-13,2,230!2024-10-10,1,230-->
 
 # Acetylcholine
 ## Hyperpolarisation in cardiac muscle

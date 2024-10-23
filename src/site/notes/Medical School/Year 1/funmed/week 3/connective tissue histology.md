@@ -20,7 +20,7 @@
 # Connective Tissue
 - forms a matrix beneath the epithelial layer and acts as a supporting framework (stroma) for most other structures and organs in the body
 - primarily 3 components
-	- ground substance (glycoproteins, proteoglycans)
+	- ground substance (glycoproteins, prpoteoglycans)
 	- fibres (elastin, collagen)
 	- sparsely populated with cells that produce the ECM (fibrocytes, adipocyte, macrophage)
 
@@ -181,7 +181,7 @@ Myofibroblasts
 ## Specialised connective tissue
 ### cartilage
 - more than 95% of it is ECM
-- avascular
+- 
 - contain GAGs and few collagen type II fibres
 #### 3 types of cartilage
 ##### hyaline cartilage

@@ -43,7 +43,7 @@
 
 #### Tay Sachs Disease
 - autosomal recessive lysosomal storage disease
-- b-hexoaminidase A mutation found on chromosome 15
+- b-hexosaminidase A mutation found on chromosome 15
 	- mutation found in significant proportion of Ashkenazi Jews
 	- enzyme does not function correctly
 		- so GM2 ganglioside is not broken down
