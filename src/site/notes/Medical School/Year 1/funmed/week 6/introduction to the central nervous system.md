@@ -38,6 +38,7 @@
 - thick, fibrous
 ### Arachnoid mater
 - thinner, more delicate
+- subarachnoid space filled with CSF, which buffers and protects the brain and spinal cord
 ### Pia mater
 - attached to the surface of the brain
 ![introduction to the central nervous system-20241029111409261.png](/img/user/Medical%20School/Year%201/funmed/week%206/attachments/introduction%20to%20the%20central%20nervous%20system-20241029111409261.png)
