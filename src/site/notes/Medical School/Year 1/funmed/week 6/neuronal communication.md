@@ -84,3 +84,5 @@
 - activates downstream signals
 - one role of GPCRs is to open/close ion channels
 ![neuronal communication-20241030115457535.png](/img/user/Medical%20School/Year%201/funmed/week%206/attachments/neuronal%20communication-20241030115457535.png)
+
+#unlinked 

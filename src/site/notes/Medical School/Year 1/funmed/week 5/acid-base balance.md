@@ -118,3 +118,6 @@ What is the PaCO2 value?
 What is the HCO3- value?
 - Metabolic indicator
 Base for interpretation of ABG (Arterial Blood Gas)
+
+
+#unlinked 

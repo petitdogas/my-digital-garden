@@ -103,3 +103,4 @@ association with increasing maternal age
 	- SRY gene - sex determining region of the Y chromosome
 		- encodes for {{HMG transcription factor}} responsible for male characteristics
 
+#unlinked 

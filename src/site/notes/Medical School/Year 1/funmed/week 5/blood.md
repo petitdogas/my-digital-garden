@@ -110,3 +110,6 @@
 - suspect infection
 - tests for the presence of pathogens e.g. bacteria
 - the samples are analysed in the laboratory by incubation for detection of specific microorganisms
+
+
+#unlinked 

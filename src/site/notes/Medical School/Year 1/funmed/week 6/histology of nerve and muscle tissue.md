@@ -18,7 +18,7 @@
 - neuroglial cells (glia )are supporting non-conducting cells that are close to  the neurone
 ![histology of nerve and muscle tissue-20241028100642101.png](/img/user/Medical%20School/Year%201/funmed/week%206/attachments/histology%20of%20nerve%20and%20muscle%20tissue-20241028100642101.png)
 ##  four types in CNS:
-###  oligodentrocytes
+###  oligodendrocytes
 - myelination of cells in the CNS
 - myelinate multiple sections of an axon and mulitiple axons
 ### [[Medical School/Year 1/funmed/week 6/introduction to the central nervous system#Astrocytes\|astrocytes]]
@@ -99,3 +99,6 @@ three types of cell-cell contacts:
 	- not arranged in myofibrils make smooth muscle appear smooth (no striations)
 	- when contracting, the myosin pulls actin attached to dense bodies closer, causing cell to shrink
 ![[histology of nerve and muscle tissue-20241028102609884.png#Intestine]]
+
+
+#unlinked 

@@ -87,3 +87,5 @@ if not repaired, these lead to genetic instability
 - information from the homologous chromosome that matches the damaged one (or from a sister chromatid, if the DNA has been copied) is used to repair the break
 	- two homologous chromosomes come together, and the undamaged region of the homologue or chromatid is used as a template to replace the damaged region of the broken chromosome
 		- “cleaner” than non-homologous end joining and does not usually cause mutations.
+
+#unlinked 

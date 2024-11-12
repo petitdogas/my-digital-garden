@@ -106,3 +106,5 @@ axial view cross section of chest
 - rare earth metal which shortens relaxation time of protons
 - does not readily cross the blood brain barrier, so useful for tumours when BBB compromised
 ![anatomy imaging-20241030130113325.png](/img/user/Medical%20School/Year%201/funmed/week%206/attachments/anatomy%20imaging-20241030130113325.png)![anatomy imaging-20241030130235109.png](/img/user/Medical%20School/Year%201/funmed/week%206/attachments/anatomy%20imaging-20241030130235109.png)
+
+#unlinked 

@@ -96,3 +96,6 @@
 ### in females
 - bladder, uterus, ovaries, vagina, rectum
 ![introduction to body cavities-20241101125656890.png](/img/user/Medical%20School/Year%201/funmed/week%206/attachments/introduction%20to%20body%20cavities-20241101125656890.png)
+
+
+#unlinked 

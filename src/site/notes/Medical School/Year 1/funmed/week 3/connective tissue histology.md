@@ -233,3 +233,5 @@ New cell layers and ECM are added to the surface of the cartilage
 •Chondrocytes completely surrounded by matrix
 1. bone
 2. blood
+
+#unlinked 
