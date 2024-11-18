@@ -83,6 +83,7 @@ J = joining
 - chronic inflammation of the small intestine
 	- immune response to wheat gluten
 - only occurs in people carrying specific MHC class II molecules
+	- HLA-DQ2 or HLA-DQ8
 	- these MHC class II molecules present gliadin peptides found in the gluten to CD4<sup>+</sup>
 ![how does the immune system recognise pathogens-20241118104013237.png](/img/user/Medical%20School/Year%201/funmed/week%209/attachments/how%20does%20the%20immune%20system%20recognise%20pathogens-20241118104013237.png)
 
@@ -93,3 +94,5 @@ J = joining
 	- if self reactivity is too strong, the cells are killed
 ## Peripheral Tolerance
 - control of lymphocytes which escape central tolerance via regulatory T cells (T<sub>reg</sub>)
+
+#unlinked 

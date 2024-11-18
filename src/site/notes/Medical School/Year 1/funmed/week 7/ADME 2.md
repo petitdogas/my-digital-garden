@@ -133,3 +133,6 @@ CYP450 can also catalyse reduction reactions, but this is rarer
 - when drug doses are repeated, the drug wiill accumulate until dosing stops
 - shorter than 4 half lives between dosing leads to accumulation
 - 5 half lives remove a drug from the system
+
+
+#unlinked

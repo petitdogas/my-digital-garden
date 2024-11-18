@@ -212,3 +212,5 @@
 
 ## Medical Implications
 ![ADME-20241106114601606.png](/img/user/Medical%20School/Year%201/funmed/week%207/attachments/ADME-20241106114601606.png)
+
+#unlinked 

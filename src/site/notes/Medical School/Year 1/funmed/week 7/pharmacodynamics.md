@@ -136,3 +136,5 @@ BUT – a Kd of 0 = no drug at that receptor
 - if receptor availability is reduced
 	- i.e. through desensitisation or down-regulation
 		- these spare receptors will mean that the maximal response will not be affected
+
+#unlinked 

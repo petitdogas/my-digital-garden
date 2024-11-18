@@ -82,3 +82,5 @@
 - 1/R<sub>0</sub> is the epidemic threshold
 	- proportion of population susceptible to virus
 		- therefore 1 - 1/R<sub>0</sub> people must be vaccinated to eliminate the virus
+
+#unlinked 
