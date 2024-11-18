@@ -56,7 +56,7 @@ Glycol transferases catalyse the formation of glyocsidic bonds
 			- therefore heparin can be used as an anticoagulent
 
 # Lipo-polysaccharides
-- "innate" immune system due to microbial pattern recognition receptors called **Toll-like receptors (TLRs)**
+- "innate" immune system due to microbial pattern recognition receptors called [[Medical School/Year 1/funmed/week 9/how does the immune system recognise pathogens#by innate immune cells\|**Toll-like receptors (TLRs)**]]
 
 # Summary Image
 
