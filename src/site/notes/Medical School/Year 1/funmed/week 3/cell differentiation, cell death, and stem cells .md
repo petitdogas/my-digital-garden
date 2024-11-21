@@ -90,7 +90,7 @@
 - caspase 1, 4, 5, and 11
 ## Necrosis
 - cell or tissue damage due to external factors
-- leads to release of a cell's content
+- leads to release of xa cell's content
 	- causes an inflammatory response
 
 ### Treatment

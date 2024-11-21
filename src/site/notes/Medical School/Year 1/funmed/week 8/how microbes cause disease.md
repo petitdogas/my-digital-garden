@@ -123,7 +123,7 @@
 ### Prevention of Phagocytosis
 - inhibit chemoattractants
 - chemotaxis inhibitory protein antagonises C5aR
-	- prevents neutrophil and monocyte response to C5a
+	- prevents neutrophil and monocyte response to [[Medical School/Year 1/funmed/week 9/inflammation#Cells move to site of inflammation\|C5a]]
 - kill phagocytes
 - capsules
 - stealth - resemble self-proteins
