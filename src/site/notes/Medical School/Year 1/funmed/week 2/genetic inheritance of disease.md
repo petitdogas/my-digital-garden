@@ -82,3 +82,26 @@ Penetrance;; - the extent to which a particular gene or set of genes is expresse
 	- e.g. diet, stress, smoking as well as genes
 		- diabetes, cancer, coronary heart disease
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
