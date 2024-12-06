@@ -214,7 +214,7 @@ that's right - the real mr green got a letter just like the rest of you, only he
 
 they had to use me because the real mr boddy here knew what green actually looks like. i usually work the hartford desk for property crime - you know, theft, fraud and the like
 
-i've become a bit of an expert on the art of pickpocketing - that's how this large envelope marked confidential ended up with em tonight and not any of you
+i've become a bit of an expert on the art of pickpocketing - that's how this large envelope marked confidential ended up with me tonight and not any of you
 
 it's all here - we all had our suspicions of what we might find here, but I never imagined it to be this rich
 
@@ -245,7 +245,7 @@ you mean these?
 # Wadsworth
 and last, but certainly not least, mr bobby boddy
 
-i hold in my hand an fbi file on the whole big boddy family. your butler wadsworth had been feeding us information for quite some time - i can see why you killed him. your shot missed him in the study, but he wisely played dead. awfully good actor. had us all convinced. but while we were all racing from the kitchen with the cook, you found your sneaky butler trying to make his escape by the bathroom and bludgeoned him to death with the lead pipe i'd dropped on the hallway floor whilst running to the kitchen
+i hold in my hand an mi6 file on the whole big boddy family. your butler wadsworth had been feeding us information for quite some time - i can see why you killed him. your shot missed him in the study, but he wisely played dead. awfully good actor. had us all convinced. but while we were all racing from the kitchen with the cook, you found your sneaky butler trying to make his escape by the bathroom and bludgeoned him to death with the lead pipe i'd dropped on the hallway floor whilst running to the kitchen
 
 and you left him, dead, in the bathroom, propped up against the door, for poor mrs peacock to encounter moments later
 

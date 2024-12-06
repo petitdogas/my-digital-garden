@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-6/histology-of-nerve-and-muscle-tissue/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-6/histology-of-nerve-and-muscle-tissue/","tags":["funmed","histology"]}
 ---
 
 ```table-of-contents

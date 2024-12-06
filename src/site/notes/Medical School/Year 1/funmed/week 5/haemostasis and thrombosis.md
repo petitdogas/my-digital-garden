@@ -35,7 +35,7 @@ Thromboplastin: Tissue factor: Factor III
 # Anti-coagulents
 ![haemostasis and thrombosis-20241023121913815.png](/img/user/Medical%20School/Year%201/funmed/week%205/attachments/haemostasis%20and%20thrombosis-20241023121913815.png)
 Warfarin inhibits Factors 2,7,9,10
-[[Medical School/Year 1/funmed/week 1/sugars and polysaccharides#Heparin and Heparan Sulfate\|Heparin]] activates Anti-Thrombin III (lyses Thrombin & factor Xa, & is not vitamin K-dependent )
+[[Medical School/Year 1/funmed/week 1/sugars and polysaccharides#Heparin and Heparan Sulfate\|Heparin]] activates Anti-Thrombin III (lyses Thrombin & factor Xa, & is not vitamin K-dependent)
 Tissue factor pathway inhibitor- Inhibits Xa (eg Rivaroxaban)
 
 # Thrombosis
