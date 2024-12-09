@@ -8,3 +8,5 @@
 - [ ] Explain the measurement of the electrical activity and ECG leads.
 - [ ] Identify the components of the PQRST sequence: waves, intervals and segments.
 - [ ] Identify features and variations of the normal sinus rhythm.
+
+#unfinished 

@@ -4,10 +4,10 @@
 
 ```table-of-contents
 ```
-# Learning Obejctives
+# Learning Objectives
 - [ ] Distinguish between **monosaccharides, disaccharides, oligosaccharides, and polysaccharides**
 - [ ] Define **glycosidic bonds, sugar esterification, amino sugar, deoxy sugar**
-- [ ] Define the mecahnism and biological importance of **protein glycosylation**
+- [ ] Define the mechanism and biological importance of **protein glycosylation**
 - [ ] Outline the structures and biological roles of **glycogen, heparin, proteoglycan, bacterial lipopolysaccharide**
 
 # Monosaccharides

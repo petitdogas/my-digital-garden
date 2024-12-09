@@ -91,6 +91,6 @@ have high compliance)
 - how efficiently the myocardium contracts from a given muscle length
 - can be altered by [[Medical School/Year 1/cr/week 1/introduction to cardiac physiology#Regulation by the ANS\|mechanisms that affect Ca2+ handling]] by myocytes
 - index is the ejection fraction
-uobf ew;kdhj o'qw'l h
+
 # Heart Sounds
 ![heart as a pump-20241127102439166.png](/img/user/Medical%20School/Year%201/cr/week%201/attachments/heart%20as%20a%20pump-20241127102439166.png)

@@ -22,7 +22,7 @@
 - monocytes differentiate into macrophages
 
 # Types of Blood Cells
-## Eryhtrocytes
+## Erythrocytes
 - anucleate
 - function only within the blood stream
 - biconcave shape with diameter of 7.8µ
