@@ -195,7 +195,7 @@ Myofibroblasts
 ##### elastic cartilage
 ??
 - presence of elastin in the  ECM (plus collagen II)
-- ear and the epiglottis of the larynx
+- ear and the [[Medical School/Year 1/cr/week 2/respiratory system histology#epiglottis\|epiglottis]] of the larynx
 - surrounded by perichondrium
 
 ##### fibrocartilage

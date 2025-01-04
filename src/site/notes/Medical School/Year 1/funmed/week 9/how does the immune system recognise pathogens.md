@@ -38,6 +38,7 @@
 	- membrane bound Ig functions as the B-cell receptor (BCR)
 - antigens are recognised without the aid of other cells
 - activated B cells differentiate into plasma cells, secreting immunoglobulin (antibodies)
+<!--SR:!2024-12-11,2,150-->
 
 #### Structure of an antibody
 - two identical heavy chains; two identical light chains
@@ -78,6 +79,7 @@ J = joining
 		- presents antigens to CD4<sup>+</sup>
 - these are not specific for a single peptide, but rather bind to a range of related peptides
 	- this is because they are **polygenic** and **polymorphic**
+<!--SR:!2024-12-10,1,130!2024-12-11,2,150!2024-12-11,2,150-->
 
 ##### Coaeliac Disease
 - chronic inflammation of the small intestine

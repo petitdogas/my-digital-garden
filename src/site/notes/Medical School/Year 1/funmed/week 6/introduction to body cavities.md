@@ -42,7 +42,7 @@
 - continuous double-layered membrane
 - surface on the lung surface is visceral pleura, surface in contact with cavity wall is parietal pleura
 - important for surface tension
-	- air within the pleural cavity leads to pneumothorax
+	- air within the pleural cavity leads to [[Medical School/Year 1/cr/week 3/respiratory system physiology#Pneumothorax\|pneumothorax]]
 
 ### Mediastinum
 - contains heart, great vessels, aorta, trachea, oesophagus, vagus nerve, phrenic nerve, thoracic duct

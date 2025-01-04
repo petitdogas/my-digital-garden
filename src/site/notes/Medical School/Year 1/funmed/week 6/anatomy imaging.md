@@ -81,7 +81,7 @@ axial view cross section of chest
 - in the brain it gives good grey/white matter contrast (fat - white = myelin, yellow bone marrow etc)
 ## T2 - pathology
 - sensitive to water content of tissue
-- inflammation or oedema in damaged tissue means higher water content
+- inflammation or [[Medical School/Year 1/cr/week 2/microcirculation and oedema#Oedema\|oedema]] in damaged tissue means higher water content
 
 # Ultrasound
 - uses sound waves (no radiation)

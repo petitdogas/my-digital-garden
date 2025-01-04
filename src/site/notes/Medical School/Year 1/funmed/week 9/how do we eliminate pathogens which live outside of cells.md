@@ -15,7 +15,8 @@
 	- µ = IgM = **pentamer**
 	- δ = IgD, γ = IgG, ε = IgE = **monomer**
 	- α = IgA = **dimer**
--  B cells make antibodies with different F<sub>C</sub> 
+-  B cells make antibodies with different F<sub>C</sub>
+<!--SR:!2024-12-11,2,150!2024-12-11,2,150!2024-12-11,2,150--> 
 
 ## Roles of Antibodies
 - Neutralisation

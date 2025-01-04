@@ -51,6 +51,7 @@ Therefore, the ECM regulates proliferation, differentiation, migration, and cell
 **Type V** - essential for fibrilation of Types 1 and III collagen
 	- blood vessels, cell surfaces, hair, and placenta
 	- 50% of patients with Ehlers Danlos syndrome have heterozygous mutation in Type V
+<!--SR:!2000-01-01,1,130!2000-01-01,1,130!2000-01-01,1,130!2000-01-01,1,130!2024-12-11,2,150-->
 
 ### Osteogenesis imperfecta
 "brittle bone disease"

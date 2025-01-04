@@ -17,7 +17,7 @@
 	- [[Medical School/Year 1/funmed/week 2/human genome and chromosomes#Robertsonian Translocation\|translocations]]
 	- visible structural changes in the chromosome
 ## Gene mutations
-	- single base pair changes / few bases
+- single base pair changes / few bases
 
 ### Point Mutations
 - silent mutation

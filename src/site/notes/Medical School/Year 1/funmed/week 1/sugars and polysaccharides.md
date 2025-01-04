@@ -23,6 +23,7 @@ Monosaccharides containing one/more chiral carbons have a **D-form** and an **L-
 If there is more than one chiral carbon:
 - Look at the chiral carbon **furthest away from the carbonyl group** to determine its naming
 - D-form is most common
+<!--SR:!2000-01-01,1,130!2000-01-01,1,130!2024-12-10,1,130!2000-01-01,1,130!2000-01-01,1,130-->
 
 Cyclic rings formed from monosaccharides with 5-6 carbons - the OH on C5 reacts with the carbonyl group
 In solution, equilibrium between straight chain and two cyclic forms
@@ -37,6 +38,7 @@ In solution, equilibrium between straight chain and two cyclic forms
 - produced by the action of sulpho-transferase
 - form **glycosaminoglycans (GAGs)** [[Medical School/Year 1/funmed/week 1/extracellular matrix and cell adhesion#Proteoglycan Aggregates\|found in extracellular matrix]]
 - makes the **GAG** highly negatively charged, therefore hydrophilic
+<!--SR:!2000-01-01,1,130!2024-12-11,2,150-->
 
 # Disaccharides
 - maltose = α glucose + α glucose

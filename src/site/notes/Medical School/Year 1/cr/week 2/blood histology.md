@@ -10,3 +10,5 @@
 - [ ] Correlate the light and electron microscope images of red and white blood cells
 - [ ] Distinguish the different classes of white blood cells and the conditions under which each would be expected to dominate
 - [ ] Identify some key pathological examples related to bone marrow and peripheral blood
+
+#unfinished 
