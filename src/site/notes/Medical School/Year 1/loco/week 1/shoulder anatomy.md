@@ -7,7 +7,8 @@
 # Learning Objectives
 - [ ] Describe the bones and joints of the pectoral girdle
 - [ ] Describe the glenohumeral joint
-
+- [ ] Describe the action of the muscles around the shoulder region and how they act of the pectoral girdle and shoulder joints
+- [ ] Describe the muscles and related structures that are located in the arm
 # Shoulder Joint and Pectoral Girdle
 - pectoral girdle is an incomplete ring of bones attaching the shoulder joint to the axial skeleton
 	- connected by clavicle, sternum, and scapula on each side
@@ -103,4 +104,8 @@
 
 # Compartments
 ## anterior compartment
+- shoulder and elbow flexors
+- musculocutaneous nerve
 ## posterior compartment
+- shoulder and elbow extensors
+- radial nerve

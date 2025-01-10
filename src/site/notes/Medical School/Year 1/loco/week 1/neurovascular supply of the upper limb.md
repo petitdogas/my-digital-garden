@@ -54,7 +54,13 @@ subclavian artery --> axillary artery --> brachial artery --> birfurcates to rad
 - superior cords of the brachial plexus damaged
 - adducted shoulder, medially rotated arm, extended elbow
 - usually due to difficult birth
+- waiter's tip
+![neurovascular supply of the upper limb-20250110135829694.webp](/img/user/Medical%20School/Year%201/loco/week%201/attachments/neurovascular%20supply%20of%20the%20upper%20limb-20250110135829694.webp)
 # Klumpke Palsy
+- injury to inferior roots less common than at superior roots
+- affects small muscles of hands
+	- claw hand results
+![neurovascular supply of the upper limb-20250110135758020.webp](/img/user/Medical%20School/Year%201/loco/week%201/attachments/neurovascular%20supply%20of%20the%20upper%20limb-20250110135758020.webp)
 
 # Nerves from brachial plexus which do not enter upper limb
 ## Long Thoracic
