@@ -88,9 +88,13 @@ axial view cross section of chest
 - cheap and readily available
 - difficult to interpret
 - portable and real-time, so can look at movement
+![anatomy imaging-20250121144834999.webp](/img/user/Medical%20School/Year%201/funmed/week%206/attachments/anatomy%20imaging-20250121144834999.webp)
+- ultrasounds guide steroid injections, nerve blocks, aspiration
 ## Dopper Ultrasound
 - uses ultrasound to look at blood flow in arteries and veins
-
+![anatomy imaging-20250121145014652.webp](/img/user/Medical%20School/Year%201/funmed/week%206/attachments/anatomy%20imaging-20250121145014652.webp)
+- red to yellow is flow towards transducer
+- blue to green is flow away from transducer
 # Contrast Media
 - solutions or suspensions of non-toxic substances that contain elements of high atomic number
 

@@ -28,7 +28,6 @@
 - apex of each cavity
 - lined by olfactory mucosa
 	- superior concha and superior nasal septum
-![respiratory system histology-20241210121415292.png](/img/user/Medical%20School/Year%201/cr/week%202/attachments/respiratory%20system%20histology-20241210121415292.png)
 
 # Pharynx
 connective tissue with mucous glands.

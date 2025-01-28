@@ -12,3 +12,4 @@
 - [ ] Understand factors affecting diffusion of gases across the alveolar capillary membrane
 - [ ] Describe effects of disease on diffusion of 02 and CO2 across the alveolar capillary membrane
 - [ ] Explain ventilation: perfusion match and mismatch and effects on gas exchange
+#unfinished 

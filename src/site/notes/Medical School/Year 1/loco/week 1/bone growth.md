@@ -109,7 +109,7 @@
 		- connective tissue surrounding the bone differentiates into the periosteum
 ![bone growth-20250110123404108.webp](/img/user/Medical%20School/Year%201/loco/week%201/attachments/bone%20growth-20250110123404108.webp)
 ## Endochondral ossification
-- mesenchyme condenses and differentiates as chrondroblasts to create a hyaline cartilage model
+- mesenchyme condenses and differentiates as chondroblasts to create a hyaline cartilage model
 	- perichondrium forms around this
 		- as cartilage bone enlarges in size, chondrocytes towards the centre increase in size (hypertrophy) and die
 			- forming small cavities for osteoblasts to move into
