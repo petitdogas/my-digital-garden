@@ -81,7 +81,7 @@ J = joining
 	- this is because they are **polygenic** and **polymorphic**
 <!--SR:!2024-12-10,1,130!2024-12-11,2,150!2024-12-11,2,150-->
 
-##### Coaeliac Disease
+##### Coeliac Disease
 - chronic inflammation of the small intestine
 	- immune response to wheat gluten
 - only occurs in people carrying specific MHC class II molecules

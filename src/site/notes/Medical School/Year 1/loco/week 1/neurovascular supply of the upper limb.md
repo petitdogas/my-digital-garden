@@ -23,6 +23,7 @@ subclavian artery --> axillary artery --> brachial artery --> birfurcates to rad
 - radial C5-T1
 - ulnar C8-T1
 - **most alcoholics must really urinate**
+<!--SR:!2025-01-30,2,150!2025-01-30,2,150-->
 
 ## musculocutaneous nerve (C5-C7)
 - supplies the flexor compartment of the arm

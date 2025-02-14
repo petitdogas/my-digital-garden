@@ -60,6 +60,7 @@
 - the ability of the AV valves to open fully (not be stenotic)
 - the ability of the ventricular wall to expand passively with little resistance (i.e., to
 have high compliance)
+<!--SR:!2025-01-29,1,130!2025-01-29,1,130!2025-01-29,1,130!2025-01-29,1,130-->
 
 # Pressure Volume Loop
 ![heart as a pump-20241127100501609.png](/img/user/Medical%20School/Year%201/cr/week%201/attachments/heart%20as%20a%20pump-20241127100501609.png)

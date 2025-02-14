@@ -133,6 +133,7 @@
 - can be distinguished by the presence of tunica media
 - distal to the postcapillary venules
 - 1-2 smooth muscle cell layers
+<!--SR:!2025-01-29,1,130!2000-01-01,1,130-->
 
 # Lymphatic Vessels
 - unidirectional
