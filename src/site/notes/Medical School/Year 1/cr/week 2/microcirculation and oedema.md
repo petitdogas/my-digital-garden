@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/microcirculation-and-oedema/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/microcirculation-and-oedema/","tags":["cr"],"updated":"2025-04-21T16:13:15.367+01:00"}
 ---
+
 
 ```table-of-contents
 ```
@@ -141,6 +142,6 @@
 ## myxoedema
 - hypothyroidism
 - oedema from accumulation glycosaminoglycans (GAGs) - long chains of sugar molecules – in interstitial tissue that attract and bind water molecules
-- mon-pitting
+- non-pitting
 	- fluid is not free in tissue but rather bound within matrix of GAGs 
 		- creating gel-like consistency that doesn't easily displace under pressure

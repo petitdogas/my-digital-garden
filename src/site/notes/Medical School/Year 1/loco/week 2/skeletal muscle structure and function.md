@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/skeletal-muscle-structure-and-function/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/skeletal-muscle-structure-and-function/","tags":["loco"],"updated":"2025-03-05T11:21:45.859+00:00"}
 ---
 
 ```table-of-contents
@@ -51,7 +51,7 @@
 ## Sliding Filament Theory
 ![skeletal muscle structure and function-20250114132005381.webp](/img/user/Medical%20School/Year%201/loco/week%202/attachments/skeletal%20muscle%20structure%20and%20function-20250114132005381.webp)
 # Motor Unit
-- alpha motor neurone and all the muscle fibres supplied = motor unit
+- alpha motor neurone and all the muscle fibres supplied = [[Medical School/Year 1/loco/week 2/neuromuscular junction#Small and Large Motor Units\|motor unit]]
 	- when this neurone fires, all innervated muscle fibres contract
 		- allows for graded contraction
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/met/week-1/mouth-to-oesophagus/","tags":["met"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/met/week-1/mouth-to-oesophagus/","tags":["met"],"updated":"2025-02-11T11:53:47.446+00:00"}
 ---
 
 ```table-of-contents

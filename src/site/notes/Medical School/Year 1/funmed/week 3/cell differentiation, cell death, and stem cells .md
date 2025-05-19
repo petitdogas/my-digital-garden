@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/cell-differentiation-cell-death-and-stem-cells/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/cell-differentiation-cell-death-and-stem-cells/","tags":["funmed"],"updated":"2024-11-21T23:51:48.797+00:00"}
 ---
 
 ```table-of-contents

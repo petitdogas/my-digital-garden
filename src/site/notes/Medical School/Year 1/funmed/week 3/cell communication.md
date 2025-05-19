@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/cell-communication/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/cell-communication/","tags":["funmed"],"updated":"2025-03-04T14:52:00.848+00:00"}
 ---
 
 ```table-of-contents
@@ -26,12 +26,11 @@
 - signalling cell has signal molecule which is received by the target cell
 - example
 	- cells in embryonic development differentiate into different types of cells
-
 ### Paracrine
 - {{short distant}} secretion of signals
 - signals stay close to signalling cell and bind to receptors which are on cells close by
 - example
-	- cytokines (inflammation regulation)
+	- [[Medical School/Year 1/funmed/week 9/cytokines\|cytokines]] (inflammation regulation)
 ### Neuronal
 - electrical impulses carried along axons across synapses
 ### Endocrine

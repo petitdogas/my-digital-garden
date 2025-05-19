@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/genetic-variation-and-genetic-disease/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/genetic-variation-and-genetic-disease/","tags":["funmed"],"updated":"2024-11-04T12:44:37.571+00:00"}
 ---
 
 ```table-of-contents

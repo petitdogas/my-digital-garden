@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-6/histology-of-nerve-and-muscle-tissue/","tags":["funmed","histology"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-6/histology-of-nerve-and-muscle-tissue/","tags":["funmed","histology"],"updated":"2025-03-18T11:51:49.980+00:00"}
 ---
 
 ```table-of-contents
@@ -22,7 +22,7 @@
 - myelination of cells in the CNS
 - myelinate multiple sections of an axon and mulitiple axons
 ### [[Medical School/Year 1/funmed/week 6/introduction to the central nervous system#Astrocytes\|astrocytes]]
-- supporting cells, regulating the metabolic environment around neurone also forms part of blood brain barrier
+- supporting cells, regulating the metabolic environment around neurone also [[Medical School/Year 1/bb/week 3/meninges, csf, and the blood brain barrier#Blood Brain Barrier\|forms part of blood brain barrier]]
 ### microglia
 - equivalent of macrophages as phagocytic cells normally quiescent
 ### ependymal cells (central neuroglia)

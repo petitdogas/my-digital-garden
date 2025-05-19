@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-5/blood/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-5/blood/","tags":["funmed"],"updated":"2024-12-09T17:49:37.252+00:00"}
 ---
 
 ```table-of-contents

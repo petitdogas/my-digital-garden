@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/human-genome-and-chromosomes/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/human-genome-and-chromosomes/","tags":["funmed"],"updated":"2025-04-21T15:52:08.776+01:00"}
 ---
 
 ```table-of-contents
@@ -43,7 +43,6 @@ chromosome number one
 - single palmar crease
 - congenital heart malformations
 - early onset Alzheimer's - gene for amyloid precursor protein (APP)
-
 #### Causes
 - 95% have three separate copies of chromosome 21
 - 4% have extra copy because of {{a Robertsonian translocation between 14 and 21}}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-1/cardiovascular-histology/","tags":["cr","histology"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-1/cardiovascular-histology/","tags":["cr","histology"],"updated":"2025-01-28T23:50:12.139+00:00"}
 ---
 
 ```table-of-contents

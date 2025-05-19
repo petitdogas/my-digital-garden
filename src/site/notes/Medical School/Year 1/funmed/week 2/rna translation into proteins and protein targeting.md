@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/rna-translation-into-proteins-and-protein-targeting/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/rna-translation-into-proteins-and-protein-targeting/","tags":["funmed"],"updated":"2024-10-11T10:52:20.613+01:00"}
 ---
 
 ```table-of-contents

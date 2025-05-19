@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-9/inflammation/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-9/inflammation/","tags":["funmed"],"updated":"2024-11-23T11:37:41.000+00:00"}
 ---
 
 ```table-of-contents

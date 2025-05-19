@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-1/shoulder-anatomy/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-1/shoulder-anatomy/","tags":["loco"],"updated":"2025-01-10T14:02:17.966+00:00"}
 ---
 
 ```table-of-contents

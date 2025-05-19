@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-4/introduction-to-the-circulatory-system/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-4/introduction-to-the-circulatory-system/","tags":["funmed"],"updated":"2025-02-21T14:18:20.223+00:00"}
 ---
 
 ```table-of-contents
@@ -27,7 +27,5 @@
 - specialised for exchange of nutrients
 - lumen of 7 microns or fewer
 - no adventitia or media layers
-
-##  FINISH ME
 
 #unfinished

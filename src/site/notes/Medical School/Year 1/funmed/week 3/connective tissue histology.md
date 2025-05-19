@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/connective-tissue-histology/","tags":["funmed","histology"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/connective-tissue-histology/","tags":["funmed","histology"],"updated":"2024-12-10T12:23:00.080+00:00"}
 ---
 
 ```table-of-contents

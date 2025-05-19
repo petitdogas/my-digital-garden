@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-3/respiratory-system-physiology/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-3/respiratory-system-physiology/","tags":["cr"],"updated":"2024-12-17T12:16:50.733+00:00"}
 ---
 
 ```table-of-contents

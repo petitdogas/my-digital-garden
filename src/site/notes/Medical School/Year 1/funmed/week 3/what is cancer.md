@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/what-is-cancer/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/what-is-cancer/","tags":["funmed"],"updated":"2024-11-04T12:43:54.104+00:00"}
 ---
 
 ```table-of-contents

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-9/how-do-we-eliminate-pathogens-which-live-inside-a-cell/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-9/how-do-we-eliminate-pathogens-which-live-inside-a-cell/","tags":["funmed"],"updated":"2024-11-23T11:37:28.000+00:00"}
 ---
 
 ```table-of-contents

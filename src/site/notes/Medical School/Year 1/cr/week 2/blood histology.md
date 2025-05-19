@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/blood-histology/","tags":["cr","histology"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/blood-histology/","tags":["cr","histology"],"updated":"2024-12-17T18:24:21.165+00:00"}
 ---
 
 ```table-of-contents

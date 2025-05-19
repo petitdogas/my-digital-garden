@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/about-me/"}
+{"dg-publish":true,"permalink":"/home/about-me/","updated":"2024-08-27T19:22:58.114+01:00"}
 ---
 
 I'm Omar Ullah, a first year student at Bart's Medical School. I'm interested in languages - ancient and modern, technology, and visiting the [[Entertainment/Theatre and Opera/opera\|opera]] and [[Entertainment/Theatre and Opera/theatre\|theatre]].

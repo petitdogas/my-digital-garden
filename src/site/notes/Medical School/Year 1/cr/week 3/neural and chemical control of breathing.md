@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-3/neural-and-chemical-control-of-breathing/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-3/neural-and-chemical-control-of-breathing/","tags":["cr"],"updated":"2025-03-18T11:50:56.241+00:00"}
 ---
 
 ```table-of-contents
@@ -44,14 +44,14 @@
 - increase firing in acidosis causing increased ventilation
 	- to lower CO<sub>2</sub>, so carbonic acid would dissociate to CO<sub>2</sub> and H<sub>2</sub>O
 ## Central Chemoreceptors
-- located on the brain side of the BBB
+- located on the brain side of the [[Medical School/Year 1/bb/week 3/meninges, csf, and the blood brain barrier#Blood Brain Barrier\|BBB]]
 	- in ventral medulla
 - senses increases in arterial PCO<sub>2</sub>
 - carbon dioxide diffuses freely through blood brain barrier into CSF
 	- reacts with water to form carbonic acid
 		- carbonic acid is converted into protons and bicarbonate by the enzyme carbonic anhydrase
 			- central chemoreceptors detect pH change
-- choroid plexus in CSF reabsorbs (active transport) and synthesises bicarbonate to adjust pH
+- [[Medical School/Year 1/bb/week 3/meninges, csf, and the blood brain barrier#Choroid Plexus\|choroid plexus]] in CSF reabsorbs (active transport) and synthesises bicarbonate to adjust pH
 
 # Other lung receptors affecting ventilation (mechano & chemical)
 ## Pulmonary Stretch Receptors

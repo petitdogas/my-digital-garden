@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-6/introduction-to-the-nervous-system/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-6/introduction-to-the-nervous-system/","tags":["funmed"],"updated":"2024-11-23T11:37:49.000+00:00"}
 ---
 
 ```table-of-contents

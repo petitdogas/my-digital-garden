@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/transcription-and-rna-processing/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/transcription-and-rna-processing/","tags":["funmed"],"updated":"2025-03-04T14:42:07.614+00:00"}
 ---
 
 ```table-of-contents

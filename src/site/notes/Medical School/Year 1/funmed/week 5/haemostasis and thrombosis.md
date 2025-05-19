@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-5/haemostasis-and-thrombosis/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-5/haemostasis-and-thrombosis/","tags":["funmed"],"updated":"2024-11-29T23:59:22.079+00:00"}
 ---
 
 ```table-of-contents

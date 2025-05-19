@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-1/bone-growth/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-1/bone-growth/","tags":["loco"],"updated":"2025-01-14T08:47:39.018+00:00"}
 ---
 
 ```table-of-contents

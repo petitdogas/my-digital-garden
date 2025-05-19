@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-1/heart-as-a-pump/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-1/heart-as-a-pump/","tags":["cr"],"updated":"2025-01-28T23:50:27.740+00:00"}
 ---
 
 ```table-of-contents

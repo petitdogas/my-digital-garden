@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-8/treatment-and-prevention-bacteria/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-8/treatment-and-prevention-bacteria/","tags":["funmed"],"updated":"2024-11-23T11:36:45.000+00:00"}
 ---
 
 ```table-of-contents

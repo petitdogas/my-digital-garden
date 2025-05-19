@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-7/adme/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-7/adme/","tags":["funmed"],"updated":"2024-12-09T18:05:32.448+00:00"}
 ---
 
 ```table-of-contents

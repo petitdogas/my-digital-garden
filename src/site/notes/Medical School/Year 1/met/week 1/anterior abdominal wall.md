@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/met/week-1/anterior-abdominal-wall/","tags":["met"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/met/week-1/anterior-abdominal-wall/","tags":["met"],"updated":"2025-02-11T12:53:30.862+00:00"}
 ---
 
 ```table-of-contents

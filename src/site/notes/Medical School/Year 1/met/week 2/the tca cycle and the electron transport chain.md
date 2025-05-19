@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/met/week-2/the-tca-cycle-and-the-electron-transport-chain/","tags":["met"],"updated":"2025-02-18T21:20:47.884+00:00"}
+{"dg-publish":true,"permalink":"/medical-school/year-1/met/week-2/the-tca-cycle-and-the-electron-transport-chain/","tags":["met"],"updated":"2025-03-05T21:04:45.130+00:00"}
 ---
 
 ```table-of-contents
@@ -55,7 +55,7 @@
 	- in normoxic conditions, HIF1 is broken down
 	- during hypoxic conditions, HIF1 moves to nucleus and acts as a transcription factor
 		- increased production of GLUT, production of glycolytic enzymes, activation of PDH kinase (inhibits acetyl-coA production since there's no point when there's no oxygen)
-	- HIF causes reduction in mitochondria by promoting autophagyand inhibits production of mitochondria by inhibiting PGC1
+	- HIF causes reduction in mitochondria by promoting autophagy and inhibits production of mitochondria by inhibiting PGC1
 	- also an oncogene
 
 # Leigh Syndrome

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/fluid-compartments-and-water-balance/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/fluid-compartments-and-water-balance/","tags":["funmed"],"updated":"2024-11-04T12:44:50.722+00:00"}
 ---
 
 ```table-of-contents

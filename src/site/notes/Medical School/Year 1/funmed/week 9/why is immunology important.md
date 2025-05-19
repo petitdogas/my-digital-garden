@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-9/why-is-immunology-important/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-9/why-is-immunology-important/","tags":["funmed"],"updated":"2025-02-14T14:03:41.224+00:00"}
 ---
 
 ```table-of-contents
 ```
 # Learning Objectives
 - [ ] The immune system is of fundamental importance to life
-- [ ] Many diseases of the modern world are due to disregulation of the immune system
+- [ ] Many diseases of the modern world are due to dysregulation of the immune system
 	- Immunology has a major impact on modern medicine
 	- Vaccination
 	- Drugs & immunotherapy

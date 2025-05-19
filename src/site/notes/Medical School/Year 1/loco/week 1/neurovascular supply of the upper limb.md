@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-1/neurovascular-supply-of-the-upper-limb/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-1/neurovascular-supply-of-the-upper-limb/","tags":["loco"],"updated":"2025-01-28T23:50:49.587+00:00"}
 ---
 
 ```table-of-contents

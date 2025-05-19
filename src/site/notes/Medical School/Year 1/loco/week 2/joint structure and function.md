@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/joint-structure-and-function/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/joint-structure-and-function/","tags":["loco"],"updated":"2025-01-17T11:33:10.557+00:00"}
 ---
 
 ```table-of-contents

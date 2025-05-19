@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-5/homeostasis/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-5/homeostasis/","tags":["funmed"],"updated":"2025-03-06T00:45:41.111+00:00"}
 ---
 
 ```table-of-contents
@@ -15,7 +15,6 @@ Effector: a system that can act to restore the variable to its desired level
 
 # Thermoregulation
 - important for enzymatic action and protein integrity
-
 ## Thermoreceptors in Skin
 - bare nerve endings
 - two types of thermoreceptors in skin: cold and warm
@@ -32,34 +31,29 @@ The control centre is the hypothalamus
 - convection - ineffective when outside is hotter
 - evaporation - ineffective when humidity above 75%
 - radiation - ineffective when outside is hotter
-
 ## Insensible Heat Loss
 - 570kcal of heat lost for each litre of water evaporating from the body
 - Water evaporates continuously from lungs, mucosa of mouth and skin – therefore there is basal (resting) level of “insensible heat loss” through evaporation
 	- ~600ml a day
-
 ## Effectors
 ### Sweat Glands and Hair Follicles
 - primarily ecrine sweat glands (apocrine is more for stress-related sweating)
 - hair muscles relax, hairs lie flat so heat can escape
 - sweat secreted by sweat glands cool skin
 
-### Cutaneous Vasodilation
+###Cutaneous Vasodilation
 - mediated by autonomic nervous system
 - reduction in vasomotor tone
 - vasculature swells with warm blood
 	- heat lost more readily from body surface by [[Medical School/Year 1/funmed/week 5/homeostasis#Mechanisms of Heat Transfer\|mechanisms of heat loss]]
-
 ### Non-shivering Thermogenesis
 - metabolic heat generation through processes other than muscle contraction
 	- calorigenic hormones and stimulation of brown fat
 	- catecholamines, adrenaline, noradrenaline
 	- thyroid hormones increase oxygen consumption of most cells and increase basal metabolic rate and heat production during prolonged cold exposure
-
 ### Piloerection
 - hair muscles pull hairs on end
 - erect hairs trap air
-
 ### Cutaneous Vasoconstriction
 - increase in sympathetic activity
 - mediated by action of noradrenaline on α-adrenoreceptors in blood vessels
@@ -74,15 +68,15 @@ alpha and beta cells in the pancreatic islets of Langerhans themselves sense gl
 ## Glucagon
 - released by pancreatic alpha cells in the islets of Langerhans
 - stimulates liver glucose production from glycogen
-	- glycogenolysis
+	- [[Medical School/Year 1/met/week 2/glycogen metabolism#Glycogenolysis Steps\|glycogenolysis]]
 		- liver glycogen --> glucose
-	- gluconeogenesis
+	- [[Medical School/Year 1/met/week 2/gluconeogenesis\|gluconeogenesis]]
 		- amino acids and glyceral --> glucose
 - inhibited by high glucose levels
 
 ## Insulin
 - released by pancreatic beta cells in the islets of Langerhans
-- glycogenesis
+- [[Medical School/Year 1/met/week 2/glycogen metabolism#Glycogenesis Steps\|glycogenesis]]
 	- glucose --> glycogen
 - 2/3 of body cells take up glucose via GLUT4
 - inhibited by hypoglycaemia

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-1/cardiac-anatomy-and-coronary-arteries/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-1/cardiac-anatomy-and-coronary-arteries/","tags":["cr"],"updated":"2024-12-09T17:20:46.258+00:00"}
 ---
 
 ```table-of-contents

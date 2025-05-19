@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-1/introduction-to-cardiac-physiology/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-1/introduction-to-cardiac-physiology/","tags":["cr"],"updated":"2024-11-26T15:08:26.643+00:00"}
 ---
 
 ```table-of-contents

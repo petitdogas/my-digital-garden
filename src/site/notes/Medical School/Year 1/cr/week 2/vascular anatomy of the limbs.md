@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/vascular-anatomy-of-the-limbs/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/vascular-anatomy-of-the-limbs/","tags":["funmed"],"updated":"2024-12-03T13:09:00.824+00:00"}
 ---
 
 ```table-of-contents

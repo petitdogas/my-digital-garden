@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/respiratory-system-histology/","tags":["cr","histology"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/respiratory-system-histology/","tags":["cr","histology"],"updated":"2025-01-17T14:30:20.618+00:00"}
 ---
 
 ```table-of-contents

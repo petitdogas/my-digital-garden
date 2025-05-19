@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-6/anatomy-imaging/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-6/anatomy-imaging/","tags":["funmed"],"updated":"2025-01-21T14:50:51.797+00:00"}
 ---
 
 ```table-of-contents

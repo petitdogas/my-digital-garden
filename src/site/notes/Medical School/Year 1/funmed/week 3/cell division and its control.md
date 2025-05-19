@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/cell-division-and-its-control/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/cell-division-and-its-control/","tags":["funmed"],"updated":"2025-04-21T15:36:34.621+01:00"}
 ---
 
 ```table-of-contents
@@ -44,7 +44,7 @@
 ??
 	- protein complex that regulates the separation of sister chromatids during cell division (both mitosis and meiosis). They hold chromatids together until anaphase.
 	- Cohesinopathies
-		- leads to extra or less chromosomes due to non-disjunction – e.g. Cornelia de Lange syndrome, trisomy 21.
+		- leads to extra or less chromosomes due to non-disjunction – e.g. Cornelia de Lange syndrome, trisomy 21
 
 ### Telophase
 - centrioles, centrosomes, spindle fibres disappear

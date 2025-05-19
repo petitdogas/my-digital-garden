@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/met/week-2/gastric-secretions/","tags":["met"],"updated":"2025-02-18T11:55:39.819+00:00"}
+{"dg-publish":true,"permalink":"/medical-school/year-1/met/week-2/gastric-secretions/","tags":["met"],"updated":"2025-02-21T13:33:40.660+00:00"}
 ---
 
 ```table-of-contents
@@ -90,7 +90,9 @@
 - **prostaglandins PGE2 and PGI2**
 	- decrease acid production
 	- COX inhibition by nonsteroidal anti-inflammatory drugs (NSAIDs) augments acid secretion and induces gastric mucosal lesions under fasted conditions
-
+## Intestinal Stage
+- feedback and satiation
+- triggered mainly by chemoreceptor activation in the small bowel
 # Gastroesophageal Reflux Disease (GORD)
 ![gastric secretions-1739878862521.webp](/img/user/Medical%20School/Year%201/met/week%202/attachments/gastric%20secretions-1739878862521.webp)
 ![gastric secretions-1739878716649.webp](/img/user/Medical%20School/Year%201/met/week%202/attachments/gastric%20secretions-1739878716649.webp)

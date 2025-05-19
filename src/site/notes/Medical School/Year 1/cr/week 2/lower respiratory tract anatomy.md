@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/lower-respiratory-tract-anatomy/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/lower-respiratory-tract-anatomy/","tags":["cr"],"updated":"2024-12-11T12:47:17.991+00:00"}
 ---
 
 ```table-of-contents

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-7/introduction-to-pharmacology/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-7/introduction-to-pharmacology/","tags":["funmed"],"updated":"2025-03-02T14:54:58.868+00:00"}
 ---
 
 ```table-of-contents
@@ -116,18 +116,18 @@
 - use generic name as there are lots of brand names
 
 
-| Ending   | Classification              | Prototype for Class |
-| -------- | --------------------------- | ------------------- |
-| -olol    | beta blockers               | propranolol         |
-| -caine   | local anaesthetic           | cocaine             |
-| -dipine  | DHP Ca channel blocker      | nifedipine          |
-| -tidine  | H2 receptor antagonist      | cimetidine          |
-| -prazole | proton pump inhibitor       | omeprazole          |
-| -quine   | antimalarials               | chloroquine         |
-| -ane     | halogenated anaesthetics    | halothane           |
-| -zosin   | alpha adrenergic inhibitors | prazosin            |
-| -profen  | NSAID class                 | ibuprofen           |
-| -clovir  | antivirals                  | acyclivor           |
-| -mycin   | macrolide antibiotics       | erythromycin        |
-| -cycline | broad spectrum antibiotics  | tetracycline        |
-| -zepam   | BDZ sedatives               | diazepam            |
+| Ending   | Classification              | Prototype for Class                                                                                           |
+| -------- | --------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| -olol    | beta blockers               | propranolol                                                                                                   |
+| -caine   | local anaesthetic           | cocaine                                                                                                       |
+| -dipine  | DHP Ca channel blocker      | nifedipine                                                                                                    |
+| -tidine  | H2 receptor antagonist      | cimetidine                                                                                                    |
+| -prazole | proton pump inhibitor       | [[Medical School/Year 1/met/week 2/gastric secretions#Gastroesophageal Reflux Disease (GORD)\|omeprazole]] |
+| -quine   | antimalarials               | chloroquine                                                                                                   |
+| -ane     | halogenated anaesthetics    | halothane                                                                                                     |
+| -zosin   | alpha adrenergic inhibitors | prazosin                                                                                                      |
+| -profen  | NSAID class                 | ibuprofen                                                                                                     |
+| -clovir  | antivirals                  | acyclivor                                                                                                     |
+| -mycin   | macrolide antibiotics       | erythromycin                                                                                                  |
+| -cycline | broad spectrum antibiotics  | tetracycline                                                                                                  |
+| -zepam   | BDZ sedatives               | diazepam                                                                                                      |

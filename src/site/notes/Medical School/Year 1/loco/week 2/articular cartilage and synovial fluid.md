@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/articular-cartilage-and-synovial-fluid/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/articular-cartilage-and-synovial-fluid/","tags":["loco"],"updated":"2025-01-13T10:56:04.103+00:00"}
 ---
 
 ```table-of-contents

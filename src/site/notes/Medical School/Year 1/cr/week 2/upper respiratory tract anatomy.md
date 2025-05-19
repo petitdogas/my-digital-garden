@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/upper-respiratory-tract-anatomy/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/upper-respiratory-tract-anatomy/","tags":["cr"],"updated":"2024-12-10T13:46:06.992+00:00"}
 ---
 
 ```table-of-contents

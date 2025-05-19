@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-1/the-mediastinum/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-1/the-mediastinum/","tags":["cr"],"updated":"2024-11-25T10:22:37.749+00:00"}
 ---
 
 ```table-of-contents

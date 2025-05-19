@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-9/how-does-the-immune-system-recognise-pathogens/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-9/how-does-the-immune-system-recognise-pathogens/","tags":["funmed"],"updated":"2025-03-06T01:06:29.896+00:00"}
 ---
 
 ```table-of-contents
@@ -30,7 +30,7 @@
 ### Toll Like Receptors (TLRs)
 - multiple toll like receptors recognise different molecular patterns
 ![how does the immune system recognise pathogens-20241118101105339.png](/img/user/Medical%20School/Year%201/funmed/week%209/attachments/how%20does%20the%20immune%20system%20recognise%20pathogens-20241118101105339.png)
-- activate signalling pathways to induce inflammatory cytokine production
+- activate signalling pathways to induce inflammatory [[Medical School/Year 1/funmed/week 9/cytokines\|cytokine]] production
 
 ## by adaptive immune cells
 ### B cells
@@ -96,5 +96,3 @@ J = joining
 	- if self reactivity is too strong, the cells are killed
 ## Peripheral Tolerance
 - control of lymphocytes which escape central tolerance via regulatory T cells (T<sub>reg</sub>)
-
-#unlinked 

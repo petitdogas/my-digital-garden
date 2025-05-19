@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entertainment/theatre-and-opera/opera/","tags":["entertainment","days-out","hobby","opera","reviews"]}
+{"dg-publish":true,"permalink":"/entertainment/theatre-and-opera/opera/","tags":["entertainment","days-out","hobby","opera","reviews"],"updated":"2024-08-17T11:57:34.064+01:00"}
 ---
 
 # Peter Grimes

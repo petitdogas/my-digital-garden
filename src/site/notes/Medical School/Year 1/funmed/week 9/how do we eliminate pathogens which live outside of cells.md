@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-9/how-do-we-eliminate-pathogens-which-live-outside-of-cells/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-9/how-do-we-eliminate-pathogens-which-live-outside-of-cells/","tags":["funmed"],"updated":"2024-12-09T17:56:41.746+00:00"}
 ---
 
 ```table-of-contents

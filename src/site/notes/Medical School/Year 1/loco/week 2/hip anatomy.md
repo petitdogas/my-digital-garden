@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/hip-anatomy/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/hip-anatomy/","tags":["loco"],"updated":"2025-01-21T14:45:32.748+00:00"}
 ---
 
 ```table-of-contents

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-1/extracellular-matrix-and-cell-adhesion/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-1/extracellular-matrix-and-cell-adhesion/","tags":["funmed"],"updated":"2025-04-21T15:31:18.648+01:00"}
 ---
 
 ```table-of-contents
@@ -48,7 +48,7 @@ Therefore, the ECM regulates proliferation, differentiation, migration, and cell
 	- skin, blood vessels, and internal organs (liver)
 **Type IV** - netforming
 	- basement membrane helps to connect epithelia to connective tissue
-**Type V** - essential for fibrilation of Types 1 and III collagen
+**Type V** - essential for fibrilation of Types I and III collagen
 	- blood vessels, cell surfaces, hair, and placenta
 	- 50% of patients with Ehlers Danlos syndrome have heterozygous mutation in Type V
 <!--SR:!2000-01-01,1,130!2000-01-01,1,130!2000-01-01,1,130!2000-01-01,1,130!2024-12-11,2,150-->
@@ -83,7 +83,7 @@ any tissue which is comprised of collagen Type I is much weaker
 - anchors elastic fibres to other ECM proteins - structural role
 - modulates binding of growth factors **(TGF-β)** and sequesters them
 ### Marfan Syndrome
-- misfolding in fibrilin changes the properties of ECM
+- misfolding in fibrillin changes the properties of ECM
 - tall stature, long arms and legs, arachnodactyly, loose joints, floppy cardiac valves, lens dislocation, aortic aneurysms
 In Marfans patients, TGF-β is not bound to ECM
 - accumulates in lungs, heart, other tissues

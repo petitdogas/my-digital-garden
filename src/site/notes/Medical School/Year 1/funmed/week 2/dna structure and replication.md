@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/dna-structure-and-replication/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/dna-structure-and-replication/","tags":["funmed"],"updated":"2025-04-21T15:43:32.605+01:00"}
 ---
 
 ```table-of-contents
@@ -71,7 +71,6 @@ if not repaired, these lead to mutations
 ### Base Excision Repair
 - correction of single bases
 ### Nucleotide Excision Repair
-
 
 ## Double strand repairs
 if not repaired, these lead to genetic instability

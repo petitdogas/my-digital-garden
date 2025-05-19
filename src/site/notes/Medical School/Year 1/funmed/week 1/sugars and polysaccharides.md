@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-1/sugars-and-polysaccharides/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-1/sugars-and-polysaccharides/","tags":["funmed"],"updated":"2025-03-06T23:34:41.541+00:00"}
 ---
 
 ```table-of-contents
 ```
 # Learning Objectives
-- [ ] Distinguish between **monosaccharides, disaccharides, oligosaccharides, and polysaccharides**
-- [ ] Define **glycosidic bonds, sugar esterification, amino sugar, deoxy sugar**
-- [ ] Define the mechanism and biological importance of **protein glycosylation**
-- [ ] Outline the structures and biological roles of **glycogen, heparin, proteoglycan, bacterial lipopolysaccharide**
+- [ ] Distinguish between monosaccharides, disaccharides, oligosaccharides, and polysaccharides
+- [ ] Define glycosidic bonds, sugar esterification, amino sugar, deoxy sugar
+- [ ] Define the mechanism and biological importance of protein glycosylation
+- [ ] Outline the structures and biological roles of glycogen, heparin, proteoglycan, bacterial lipopolysaccharide
 
 # Monosaccharides
 - Contain 3-7 carbons
@@ -17,11 +17,11 @@
 - Ketones --> Ketoses
 
 ## Structure
-Monosaccharides containing one/more chiral carbons have a **D-form** and an **L-form**
-- **D-form:** -OH group attached to the right of the chiral carbon
-- **L-form:** -OH group attached to the left of the chiral carbon
+Monosaccharides containing one/more chiral carbons have a D-form and an L-form
+- D-form: -OH group attached to the right of the chiral carbon
+- L-form: -OH group attached to the left of the chiral carbon
 If there is more than one chiral carbon:
-- Look at the chiral carbon **furthest away from the carbonyl group** to determine its naming
+- Look at the chiral carbon furthest away from the carbonyl group to determine its naming
 - D-form is most common
 <!--SR:!2000-01-01,1,130!2000-01-01,1,130!2024-12-10,1,130!2000-01-01,1,130!2000-01-01,1,130-->
 
@@ -37,8 +37,7 @@ In solution, equilibrium between straight chain and two cyclic forms
 ## Sulfated sugars
 - produced by the action of sulpho-transferase
 - form **glycosaminoglycans (GAGs)** [[Medical School/Year 1/funmed/week 1/extracellular matrix and cell adhesion#Proteoglycan Aggregates\|found in extracellular matrix]]
-- makes the **GAG** highly negatively charged, therefore hydrophilic
-<!--SR:!2000-01-01,1,130!2024-12-11,2,150-->
+- makes the GAG highly negatively charged, therefore hydrophilic
 
 # Disaccharides
 - maltose = α glucose + α glucose
@@ -47,12 +46,12 @@ In solution, equilibrium between straight chain and two cyclic forms
 Glycol transferases catalyse the formation of glyocsidic bonds
 
 # Glycogen
-- Insulin acts on **hepatocytes** to stimulate **glycogen synthase**
-	- **Glycogenin** acts as a primer to allow the polymerisation of the first few glucose molecules (this is a glycosyltransferase)
+- Insulin acts on hepatocytes to stimulate glycogen synthase
+	- [[Medical School/Year 1/met/week 2/glycogen metabolism#Glycogenesis Steps\|Glycogenin]] acts as a primer to allow the polymerisation of the first few glucose molecules (this is a glycosyltransferase)
 - Glycogen phosphorylase breaks down glycogen
 
 # Heparin and Heparan Sulfate
-- **Glycosaminoglycan** important in blood clotting pathway
+- Glycosaminoglycan important in blood clotting pathway
 	- thrombin important in converting fibrinogen to fibrin
 		- heparin inhibits thrombin via an allosteric effect
 			- therefore heparin can be used as an anticoagulent

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/ankle-and-foot-anatomy/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/ankle-and-foot-anatomy/","tags":["loco"],"updated":"2025-01-17T11:53:12.203+00:00"}
 ---
 
 ```table-of-contents

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-6/introduction-to-body-cavities/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-6/introduction-to-body-cavities/","tags":["funmed"],"updated":"2024-12-17T11:42:01.955+00:00"}
 ---
 
 ```table-of-contents

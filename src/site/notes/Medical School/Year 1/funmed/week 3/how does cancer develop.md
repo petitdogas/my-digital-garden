@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/how-does-cancer-develop/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-3/how-does-cancer-develop/","tags":["funmed"],"updated":"2024-11-04T12:43:44.362+00:00"}
 ---
 
 ```table-of-contents

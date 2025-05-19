@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/introduction-to-chest-x-rays/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-2/introduction-to-chest-x-rays/","tags":["cr"],"updated":"2024-12-13T14:40:41.115+00:00"}
 ---
 
 ```table-of-contents

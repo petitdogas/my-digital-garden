@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-3/gas-exchange/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-3/gas-exchange/","tags":["cr"],"updated":"2025-01-17T13:19:04.816+00:00"}
 ---
 
 ```table-of-contents

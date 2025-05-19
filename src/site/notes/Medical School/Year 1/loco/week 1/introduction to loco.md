@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-1/introduction-to-loco/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-1/introduction-to-loco/","tags":["loco"],"updated":"2025-01-06T09:20:19.613+00:00"}
 ---
 
 

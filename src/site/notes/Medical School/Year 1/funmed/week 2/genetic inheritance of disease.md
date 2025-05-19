@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/genetic-inheritance-of-disease/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/genetic-inheritance-of-disease/","tags":["funmed"],"updated":"2024-11-23T11:43:59.000+00:00"}
 ---
 
 ```table-of-contents

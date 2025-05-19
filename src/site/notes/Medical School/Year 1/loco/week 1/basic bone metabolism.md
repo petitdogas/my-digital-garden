@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-1/basic-bone-metabolism/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-1/basic-bone-metabolism/","tags":["loco"],"updated":"2025-03-14T16:22:55.998+00:00"}
 ---
 
 ```table-of-contents
@@ -91,7 +91,7 @@
 	- IL-1, IL-6, IL-17 and TNF
 - low serum calcium leads to release of parathyroid hormone (PTH)
 ## Hormones
-### PTH/Vitamin D axis
+### PTH / Vitamin D axis
 - low serum calcium results in release of PTH from parathyroid gland
 	- increases Ca2+ reabsorption from the kidney (at expense of phosphate excretion) - short term
 	- promotes the activation of vitamin D to 1,25-dihydroxyvitamin D in the kidney - intermediate term

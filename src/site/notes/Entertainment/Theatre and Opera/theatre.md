@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entertainment/theatre-and-opera/theatre/","tags":["theatre","days-out","entertainment","reviews","hobby"]}
+{"dg-publish":true,"permalink":"/entertainment/theatre-and-opera/theatre/","tags":["theatre","days-out","entertainment","reviews","hobby"],"updated":"2025-01-28T23:30:41.964+00:00"}
 ---
 
 # Musicals

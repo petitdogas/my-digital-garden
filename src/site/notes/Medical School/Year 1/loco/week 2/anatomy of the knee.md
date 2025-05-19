@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/anatomy-of-the-knee/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/anatomy-of-the-knee/","tags":["loco"],"updated":"2025-03-04T13:41:34.604+00:00"}
 ---
 
 ```table-of-contents
@@ -59,9 +59,9 @@
 - stabilise translation of the joint
 
 # Patellar Reflex
-- tests the integrity of the femoral nerve and the spinal nerves L3-4
+- tests the integrity of the femoral nerve and the spinal nerves L2-4
 - tendon hammer to hit patellar tendon
-	- causes involuntary movement
+	- [[Medical School/Year 1/bb/week 1/spinal reflexes#Patellar Reflex\|causes involuntary movement]]
 
 # Bursae
 - most are extensions of the knee synovial cavity

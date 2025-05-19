@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-3/imaging-soft-tissue/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-3/imaging-soft-tissue/","tags":["loco"],"updated":"2025-01-21T14:47:48.846+00:00"}
 ---
 
 ```table-of-contents

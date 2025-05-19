@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-3/carriage-of-oxygen-and-carbon-dioxide-in-blood/","tags":["cr"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/cr/week-3/carriage-of-oxygen-and-carbon-dioxide-in-blood/","tags":["cr"],"updated":"2024-12-18T12:00:30.644+00:00"}
 ---
 
 ```table-of-contents

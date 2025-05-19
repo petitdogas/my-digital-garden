@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-3/walking-and-posture/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-3/walking-and-posture/","tags":["loco"],"updated":"2025-01-21T11:56:49.713+00:00"}
 ---
 
 ```table-of-contents

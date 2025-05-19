@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/neuromuscular-junction/","tags":["loco"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/loco/week-2/neuromuscular-junction/","tags":["loco"],"updated":"2025-01-15T12:49:52.977+00:00"}
 ---
 
 ```table-of-contents

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-5/acid-base-balance/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-5/acid-base-balance/","tags":["funmed"],"updated":"2025-03-04T14:46:42.117+00:00"}
 ---
 
 ```table-of-contents
@@ -29,7 +29,7 @@
 - drugs/toxins
 - CO poisoning
 - hypotension hypoxia
-- uncontrolled diabetes / starvation
+- [[Medical School/Year 1/met/week 3/ketogenesis#Diabetic Ketoacidosis (DKA)\|uncontrolled diabetes / starvation]]
 
 # Henderson-Hasselbach Equation
 ![acid-base balance-20241025122624050.png](/img/user/Medical%20School/Year%201/funmed/week%205/attachments/acid-base%20balance-20241025122624050.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-8/how-microbes-cause-disease/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-8/how-microbes-cause-disease/","tags":["funmed"],"updated":"2025-04-15T18:23:43.987+01:00"}
 ---
 
 ```table-of-contents
@@ -159,7 +159,7 @@
 
 # Microbial Toxins
 ## Endotoxins - Lipopolysaccharides (LPS)
-- released when bacteria die
+- in cell wall and released when bacteria die
 - toxic portion activates complement and stimulates production of cytokines
 - results in septic shock (septicaemia)
 	- fever and diffuse haemorrhage 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/met/week-1/glycolysis-and-glucose-oxidation/","tags":["met"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/met/week-1/glycolysis-and-glucose-oxidation/","tags":["met"],"updated":"2025-02-14T13:01:48.571+00:00"}
 ---
 
 ```table-of-contents

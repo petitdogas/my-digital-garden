@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/causes-of-genetic-mutations/","tags":["funmed"]}
+{"dg-publish":true,"permalink":"/medical-school/year-1/funmed/week-2/causes-of-genetic-mutations/","tags":["funmed"],"updated":"2025-04-21T15:33:41.409+01:00"}
 ---
 
 ```table-of-contents
@@ -101,7 +101,6 @@ mitotic nondisjunction can occur due to the inactivation of topoisomerase II
 	- G and T are commonly in {{keto form, and rarely **enol**}}
 		- these tautomers can lead to {{**transition mutations**}}
 			- different purine/pyrimidine, so mismatched base pairs
-
 ![causes of genetic mutations-20241001124737063.png](/img/user/Medical%20School/Year%201/funmed/week%202/attachments/causes%20of%20genetic%20mutations-20241001124737063.png)
 
 ### Depurination (deletion)
